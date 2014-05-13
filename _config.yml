@@ -1,10 +1,10 @@
 title:        Geographic Data Science Laboratory
-tagline:      'Geographic Data Science Laboratory'
+tagline:      'Geographic Data Science Lab'
 description:  'At the University of Liverpool'
 url:    http://www.geographicdatascience.com
 version:      1.1.1
 author:
-  name:       Geographic Data Science Lab
+  name:       GDSL
   email:      alex.singleton@liverpool.ac.uk
 markdown:     rdiscount
 permalink:    pretty
