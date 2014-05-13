@@ -4,7 +4,7 @@ description:  'Geographic Data Science Laboratory at the University of Liverpool
 url:    http://www.geographicdatascience.com
 version:      1.1.1
 author:
-  name:       Geographic Data Science Laboratory 
+  name:       Geographic Data Science Lab
   email:      alex.singleton@liverpool.ac.uk
 markdown:     rdiscount
 permalink:    pretty
