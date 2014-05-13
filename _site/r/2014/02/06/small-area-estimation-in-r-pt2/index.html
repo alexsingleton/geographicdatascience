@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+
+  <title>
+    Small Area Estimation in R - Part 2 &middot; 
+    Geographic Data Science Laboratory
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body class="theme-base-gdsl">
+
+    <header class="masthead">
+      <div class="masthead-inner">
+			 <div class="img-circular"></div>
+        <h1>Geographic Data Science Laboratory</h1>
+        <p class="lead">Geographic Data Science Laboratory at the University of Liverpool</p>
+
+        <div class="colophon">
+          <ul class="colophon-links">
+             <li>
+              <a href="/about">About</a>
+            </li>
+             <li>
+              <a href="/">Blog</a>
+            </li>
+              <li>
+              <a href="http://atlas.geographicdatascience.org">Atlas</a>
+            </li>
+           <li>
+              <a href="/people/">People</a>
+            </li>
+             <li>
+              <a href="/projects/">Our Projects</a>
+            </li>
+            <li>
+              <a href="/join/">Join Us</a>
+            </li>
+             <li>
+              <a href="/contact/">Contact Us</a>
+            </li>
+          </ul>
+          <p>&copy; 2014. Geographic Data Science Laboratory All rights reserved.</p>
+          <a href="/atom.xml"><img class="img-feed" src="/public/images/iconmonstr-rss-3-icon.svg"></a></img><a href="https://twitter.com/geodatascience"><img class="img-feed" src="/public/images/iconmonstr-twitter-3-icon.svg"></img></a><a href="https://github.com/alexsingleton/geographicdatascience"><img class="img-feed" src="/public/images/iconmonstr-github-8-icon.svg"></a></br>
+         <a href="http://www.liv.ac.uk"><img class="img-uni" src="/public/images/whiteout_logo_616.png"></a> 
+        </div>
+      </div>
+    </header>
+
+    <div class="content container">
+      <div class="post">
+  <h1>Small Area Estimation in R - Part 2</h1>
+      <span class="post-date">
+    	<img class="img-icon" src="/public/images/iconmonstr-calendar-5-icon.svg"></img>06 Feb 2014
+   		<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img>Michail Pavlis
+   		<img class="img-icon" src="/public/images/iconmonstr-tags-3-icon.svg"></img> r  
+    	<img class="img-icon" src="/public/images/iconmonstr-speech-bubble-14-icon.svg"></img><a href="http://www.geographicdatascience.com/r/2014/02/06/small-area-estimation-in-r-pt2/#disqus_thread" data-disqus-identifier="/r/2014/02/06/small-area-estimation-in-r-pt2/"></a>
+	    <img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"><a href="https://twitter.com/share?url=http://www.geographicdatascience.com/r/2014/02/06/small-area-estimation-in-r-pt2/&text=Small Area Estimation in R - Part 2" target="_blank">Tweet this!</a>
+	  </span>
+  <p>To continue from the previous post, I will show how to make predictions of people in Routine/Semiroutine occupations for the period 2002 - 2010 using the GLMM model which was presented in the previous post. The predictions will be made using both the fixed effects and the random effects of the model (at the LSOA level), which will result in what is known as the empirical best linear unbiased prediction (EBLUP). <!-- more --></p>
+
+<p>To carry out the analysis we will need to update the data for the fixed variables, i.e. rank education and (transformed) Band A percent. The data for Tax Bands for the period 2002 - 2010 can be found <a href="http://www.neighbourhood.statistics.gov.uk/dissemination/datasetList.do?JSAllowed=true&amp;Function=&amp;%24ph=60&amp;CurrentPageId=60&amp;step=1&amp;CurrentTreeIndex=-2&amp;searchString=tax+bands&amp;datasetFamilyId=938&amp;Next.x=13&amp;Next.y=7">here</a>, as explained previously, apart from the year we need to select 9 regions (East Midlands, East of England, London, North East, North West, South East, South West, West England and Yorkhire), the type of file (csv) and extract the file ending in "_OA.CSV". Before extracting the files you should create a base folder and within that folder create 9 more folders named after each year (2002 - 2010). Different OA codes are used from 2010 so we will need a <a href="https://geoportal.statistics.gov.uk/Docs/Lookups/Output_areas_(2001)_to_output_areas_(2011)_to_local_authority_districts_(2011)_E+W_lookup.zip">lookup table</a> between the 2001 and 2010 OA codes. Updates for the indicator of education deprivation are created every 3 years, so for 2007 can be found <a href="http://www.neighbourhood.statistics.gov.uk/dissemination/instanceSelection.do?JSAllowed=true&amp;Function=&amp;%24ph=60_61&amp;CurrentPageId=61&amp;step=2&amp;datasetFamilyId=2026&amp;instanceSelection=123850&amp;Next.x=11&amp;Next.y=10">here</a> and for 2010 <a href="http://www.neighbourhood.statistics.gov.uk/dissemination/instanceSelection.do?JSAllowed=true&amp;Function=&amp;%24ph=60_61&amp;CurrentPageId=61&amp;step=2&amp;datasetFamilyId=2394&amp;instanceSelection=129711&amp;Next.x=20&amp;Next.y=13">here</a>. For the years that the deprivation data are not available we will keep them constant.</p>
+
+<p>We will first need to merge the tax bands data for each year. This can be accomplished with the following function, simply provide the path to the base folder.</p>
+
+<pre><code class="r">mergeTaxData &lt;- function(path_to_base_folder){
+  for (year in 2002:2010){ 
+    setwd(paste(path_to_base_folder, year, sep = "/"))
+    csv_files &lt;- list.files(".", "*.CSV")
+    temp &lt;- NULL
+    if (year &lt; 2008){
+      cols &lt;- c(12, 15, 16, 18, 20, 22, 24, 26, 28, 30)
+      } else {
+      cols &lt;- c(14, 17, 18, 20, 22, 24, 26, 28, 30, 32)
+      }
+    for (i in csv_files){
+      read_csv &lt;- read.csv(i, skip = 5, header = T)[,cols]
+      temp &lt;- rbind(temp, read_csv)
+    }
+    if (year != 2010){
+        names(temp) &lt;- c("oa_01", "all_bands", "band_a", "band_b", "band_c", "band_d", "band_e", "band_f", "band_g", "band_h")
+        } else {
+          names(temp) &lt;- c("oa_11", "all_bands", "band_a", "band_b", "band_c", "band_d", "band_e", "band_f", "band_g", "band_h")
+        }
+    write.csv(temp, paste("tax_bands_",year,".csv",sep=""), row.names = F)
+  }
+}
+</code></pre>
+
+<p>So if the path to the base folder was C:\tax_bands then the function could be used as follows:
+<code>{r exampleFun, eval = FALSE}
+mergeTaxData("C:/tax_bands")
+</code>
+We could also check if it is possible to improve our model. For example if spatial autocorrelation was found in the residuals we could take advantage of that and krige the residuals to add the predicted values back to our predictions (from the GLMM model), a methodology which is known as rgeression kriging. We can evaluate if there is autocorrelation in the residuals using the variogram, but first we will need the coordinates of the centroids of the OAs. To do that, download the OA boundaries from the site of <a href="http://ukbsrv-at.edina.ac.uk/html/easy_download/easy_download.html?data=England_oa_2001">Edina</a> (you will need to login to access the data). The following script will extract the coordinates and draw the variogram for the dependent variable and the residuals obtained from the GLMM model. If the curve of the variogram is increasing with distance then there is autocorrelation in the data.</p>
+
+<pre><code class="r">library(rgdal)
+library(gstat)
+
+oa_boundaries &lt;- readOGR("/home/mick/GIS_Data", "England_oa_2001_clipped_area")
+oa_coords &lt;- coordinates(oa_boundaries) # Extract the coordinates of the centroids of the OA polygons
+oa_coords &lt;- data.frame(oa_01 = oa_boundaries@data[,2], easting = oa_coords[,1], northing = oa_coords[,2])
+all_data2 &lt;- merge(all_data, oa_coords, by.x = "oa_01", by.y = "oa_01")
+coordinates(all_data2) &lt;- ~ easting + northing # Convert to SpatialPointsDataFrame
+vgm1 &lt;- variogram(routine_perc_01 ~ 1, all_data2)
+vgm2 &lt;- variogram(E3 ~ 1, all_data2)
+par(mfrow = c(1,2))
+plot(vgm1)
+plot(vgm2)
+</code></pre>
+
+<p><img src="/public/images/vgm1.jpeg" alt="vgm1" />
+<img src="/public/images/vgm2.jpeg" alt="vgm2" /></p>
+
+<p>As can be seen from the variograms, autocorrelation was present in the dependent variable but it was accounted for after regression was applied. So the next step of the analysis, is to make predictions for the period 2002 - 2010, which can be accomplished using the following script.</p>
+
+<pre><code class="r">out &lt;- data.frame(oa_01 = all_data$oa_01, routine_perc_01 = all_data$routine_perc_01)
+
+lookup2 &lt;- read.csv("path/to/lookup_01_11.csv")[,2:3]
+names(lookup2) &lt;- c("oa_01", "oa_11")
+
+for (year in 2002:2010){
+
+  if (year &lt;= 2004){
+    imd_education &lt;- read.csv("path/to/IMD_Education_2004.csv", skip = 5)[,c(9,14)]
+    names(imd_education) &lt;- c("LSOA01CD", "rank_education_x")
+  } else if (year &gt; 2004 &amp; year &lt; 2008){
+    imd_education &lt;- read.csv("path/to//IMD_Education_2007.csv", skip = 5)[,c(9,14)]
+    names(imd_education) &lt;- c("LSOA01CD", "rank_education_x")
+    } else {
+      imd_education &lt;- read.csv("path/to/IMD_Education_2010.csv", skip = 5)[,c(11,14)]
+      names(imd_education) &lt;- c("LSOA01CD", "rank_education_x")
+    }
+
+  bands &lt;- read.csv(paste("/home/mick/dwelling/", year, "/tax_bands_", year,".csv", sep = ""))
+  bands$a_perc_x &lt;- ifelse(bands$bands_all  != 0, bands$band_a / bands$bands_all, 0)
+
+  if (year == 2010){
+    bands &lt;- merge(bands, lookup2, by.x = "oa_11", by.y = "oa_11")
+  }
+
+  temp &lt;- merge(all_data[,c("oa_01", "LSOA01CD", "a_perc", "rank_education")], 
+                bands[,c("oa_01", "a_perc_x")], all.x = T, by.x = "oa_01", by.y = "oa_01")
+  temp &lt;- merge(temp, imd_education, all.x = T, by.x = "LSOA01CD", by.y = "LSOA01CD")
+
+  # Replace any NAs
+  temp$a_perc_x &lt;- as.numeric(ifelse(is.na(temp$a_perc_x), temp$a_perc, temp$a_perc_x))
+  temp$rank_education_x &lt;- as.numeric(ifelse(is.na(temp$rank_education_x), temp$rank_education, temp$rank_education_x))
+
+  temp$tr_a_perc_x &lt;- asin(sqrt(temp$a_perc_x/(100 + 1))) + asin(sqrt((temp$a_perc_x + 1)/(100 + 1))) 
+
+  X &lt;- with(temp, data.frame(tr_a_perc =  tr_a_perc_x, rank_education = rank_education_x, LSOA01CD = LSOA01CD))
+
+  pred_name &lt;- paste("pred_routine_", year, sep = "")
+  temp[[pred_name]] &lt;- predict(glm3, X, REform =~ (1|LSOA01CD))
+  temp[[pred_name]] &lt;- exp(temp[[pred_name]]) / (1 + exp(temp[[pred_name]]))
+
+  out &lt;- merge(out, temp[,c("oa_01", pred_name)], all.x = T, by.x = "oa_01", by.y = "oa_01")
+  out[[pred_name]] &lt;- as.numeric(ifelse(is.na(out[[pred_name]]), out$routine_perc_01, out[[pred_name]]))
+}
+
+write.csv(out, "pred_routine.csv", row.names = F)
+</code></pre>
+
+<p>We can have a look at the correlations between the Census 2001 data and the predicted values.</p>
+
+<pre><code class="r">cor(out[,2:11])
+#                   routine_perc_01 pred_routine_2002 pred_routine_2003 pred_routine_2004 pred_routine_2005 pred_routine_2006 pred_routine_2007 pred_routine_2008 pred_routine_2009 pred_routine_2010
+# routine_perc_01         1.0000000         0.8711056         0.8710991         0.8711549         0.8655008         0.8654215         0.8654712         0.8616898         0.8524694         0.8614698
+# pred_routine_2002       0.8711056         1.0000000         0.9998875         0.9994646         0.9882453         0.9882038         0.9882186         0.9811680         0.9682729         0.9806596
+# pred_routine_2003       0.8710991         0.9998875         1.0000000         0.9995565         0.9883512         0.9883136         0.9883332         0.9812892         0.9683978         0.9807874
+# pred_routine_2004       0.8711549         0.9994646         0.9995565         1.0000000         0.9887782         0.9887463         0.9887642         0.9817424         0.9687370         0.9811330
+# pred_routine_2005       0.8655008         0.9882453         0.9883512         0.9887782         1.0000000         0.9997909         0.9994789         0.9885431         0.9757190         0.9880140
+# pred_routine_2006       0.8654215         0.9882038         0.9883136         0.9887463         0.9997909         1.0000000         0.9997002         0.9887677         0.9759328         0.9881429
+# pred_routine_2007       0.8654712         0.9882186         0.9883332         0.9887642         0.9994789         0.9997002         1.0000000         0.9890717         0.9762212         0.9884217
+# pred_routine_2008       0.8616898         0.9811680         0.9812892         0.9817424         0.9885431         0.9887677         0.9890717         1.0000000         0.9871076         0.9993604
+# pred_routine_2009       0.8524694         0.9682729         0.9683978         0.9687370         0.9757190         0.9759328         0.9762212         0.9871076         1.0000000         0.9868587
+# pred_routine_2010       0.8614698         0.9806596         0.9807874         0.9811330         0.9880140         0.9881429         0.9884217         0.9993604         0.9868587         1.0000000
+</code></pre>
+
+<p>As can be seen from the correlation analysis, the correlation between the Census data and the predicted values is quite good and the correlation decreases over time as should be expected.</p>
+
+<h1>Conclusion</h1>
+
+<p>Using a GLMM it was possible to make predictions for the percentage of people in routine semi-routine occupation, internal validation based on the residuals was used to evaluate the outcome of the analysis. Even though there is a good correlation between the Census data and the predictions, there is a stronger correlation between the predictions themselves which might indicate that we don't predict some of the changes that occur over time. A more elegant solution to the problem of overdispersion would be to apply Baysian statistics and to use a different distribution from binomial (e.g. beta-binomial).</p>
+
+  Posted by Michail Pavlis<div class="avatar-frame"><img src="/public/images/michailpavlis.jpg"></img></div>
+</div>
+
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'alexandersingleton'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/talk/2014/05/11/AAG-Geodemographic-Update/">
+            Updating OAC - Assessing Classification Uncertainty and Cluster Stability During Intercensal Periods
+            <small>11 May 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/talk/2014/05/11/AAG-Built-Environment/">
+            Establishing Dynamic Measures of Built Environment Characteristics and their Relationship to Patterns of Socio-Spatial Structure
+            <small>11 May 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/talk/2014/05/10/AAG/">
+            Geographic Data Science at the AAG
+            <small>10 May 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+      <HR>
+    </div>
+
+
+<!-- Comment Counts -->
+<script type="text/javascript">
+		var disqus_shortname = 'alexandersingleton'; // required: replace example with your forum shortname
+                var disqus_identifier = '/r/2014/02/06/small-area-estimation-in-r-pt2/';
+		var disqus_url = 'http://www.geographicdatascience.com/r/2014/02/06/small-area-estimation-in-r-pt2/';
+ 
+		/* * * DON'T EDIT BELOW THIS LINE * * */
+		(function () {
+			var s = document.createElement('script'); s.async = true;
+			s.type = 'text/javascript';
+			s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+		}());
+	</script>
+
+  </body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50923993-1', 'geographicdatascience.com');
+  ga('send', 'pageview');
+
+</script>
+
+</html>
