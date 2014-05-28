@@ -79,7 +79,8 @@ Dean has a background in spatial planning; holding two masters degrees from the 
 
 <img class="img-icon" src="/public/images/iconmonstr-phone-icon.svg"></img> +44(0) 151 794 1355   
 <img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [d.riddlesden@liverpool.ac.uk](mailto:d.riddlesden@liverpool.ac.uk)
-<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [uk.linkedin.com/pub/dean-riddlesden/54/363/401](http://uk.linkedin.com/pub/dean-riddlesden/54/363/401)
+<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img>
+[uk.linkedin.com/pub/dean-riddlesden/54/363/401](http://uk.linkedin.com/pub/dean-riddlesden/54/363/401)
 <img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"></img> [deanriddlesden](https://twitter.com/deanriddlesden)  
 
 <a id="michailpavlis"></a>
