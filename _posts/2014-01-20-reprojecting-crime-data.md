@@ -38,7 +38,7 @@ From the practical:
 
 >"This creates a SpatialPointsDataFrame object. This first line prepares the coordinates into a form that the SpatialPointsDataFrame can use. The SpatialPointsDataFrame function on the second line takes three arguments - the first is coordinates, created in the line above. The second argument is the data frame minus columns 5 and 6 - this is what `-(5:6)` indicates. The third argument is the projection. These columns provide all the non-geographical data from the data frame. The resulting object crime.pts is a spatial points geographical shape object, whose points are each recorded crime in the data set you download."
 
-Creating a SpatialPointsDataFrame from the CSV is straight forward, but remember to specify the projection - `proj4string = CRS("+init=epsg:4326")` in our case (WGS84). The `[,-(5:6)]` means that the data element of the SpatialPointsDataFrame contains everything in crimes (the CSV file read in) apart from columns 5 & 6. This is a new way of doing it to me, but quite effective!
+Creating a SpatialPointsDataFrame from the CSV is straight forward, but remember to specify the projection - `proj4string = CRS("+init=epsg:4326")` in our case (WGS84). The `[,-(5:6)]` means that the data element of the SpatialPointsDataFrame contains everything in crimes (the CSV file read in) apart from columns 5 & 6. This is a new way of doing it for me, but quite effective!
 
 Once the data is stored as a SpatialPointsDataFrame, the actual reprojection is easy - you essentially just say 'reproject this data frame to this projection', with `+init=epsg:27700` being BNG:
 

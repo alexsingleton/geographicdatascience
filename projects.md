@@ -6,7 +6,7 @@ Members of the Geographic Data Science Lab conduct research at the intersection 
 
 ### Retail Business Datasafe / Consumer Data Research Centre
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [ESRC](http://www.esrc.ac.uk)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Les Dolega](http://localhost:4000/people/#lesdolgea), [Michail Pavlis](http://localhost:4000/people/#michailpavlis) 
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Les Dolega](/people/#lesdolgea), [Michail Pavlis](/people/#michailpavlis) 
 
 <img src="/public/images/cdrc.png"></img>
 
@@ -15,7 +15,7 @@ As part of a major investment in the acquisition, management and analysis of Big
 ### Mapping Retail Sector Business Rate Inequalities
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [ESRC](http://www.esrc.ac.uk)
 <img class="img-icon" src="/public/images/iconmonstr-thumb-10-icon.svg"></img> [Local Data Company](http://www.localdatacompany.com)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Les Dolega](http://localhost:4000/people/#lesdolgea)
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Les Dolega](/people/#lesdolgea)
 
 <img src="/public/images/retailchange.png"></img>
 
@@ -24,7 +24,7 @@ This project examines geographic variation in business rates between retail cent
 ### The eResilience of British Retail Centres: Creating a national model of retail area resilience to online shopping.
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [ESRC](http://www.esrc.ac.uk)
 <img class="img-icon" src="/public/images/iconmonstr-thumb-10-icon.svg"></img> [Local Data Company](http://www.localdatacompany.com)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Les Dolega](http://localhost:4000/people/#lesdolgea)
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Les Dolega](/people/#lesdolgea)
 
 <img src="/public/images/retail_esoc.jpg"></img>
 
@@ -33,7 +33,7 @@ This project explores patterns of retail e-Resilience in terms of the extent to 
 ### Leveraging the Google Cloud to Estimate Individual Level CO2 Emissions Linked to the School Commute.
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [ESRC](http://www.esrc.ac.uk)
 <img class="img-icon" src="/public/images/iconmonstr-thumb-10-icon.svg"></img> [Google](http://www.localdatacompany.com)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Nick Bearman](http://localhost:4000/people/#nickbearman)
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Nick Bearman](/people/#nickbearman)
 
 <img src="/public/images/co2.png"></img>
 
@@ -41,7 +41,7 @@ This "big data" research has produced a national coverage and geographically sen
 
 ### Visualisation of Broadband Equity
 <img class="img-icon" src="/public/images/iconmonstr-thumb-10-icon.svg"></img> [Speedchecker](http://www.broadbandspeedchecker.co.uk)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Dean Riddlesden](http://localhost:4000/people/#deanriddlesden) 
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Dean Riddlesden](/people/#deanriddlesden) 
 
 <img src="/public/images/bb.png"></img>
 
@@ -50,20 +50,20 @@ This project implements alternate methods of online geo-visualisation for the co
 ### Using Secondary Data to Measure, Monitor and Visualise Spatio-Temporal Uncertainties in Geodemographic Classification.
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [ESRC](http://www.esrc.ac.uk)
 <img class="img-icon" src="/public/images/iconmonstr-thumb-10-icon.svg"></img> [ONS](http://www.ons.gov.uk/)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Michail Pavlis](http://localhost:4000/people/#michailpavlis) 
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Alex Singleton](/people/#alexsingleton), [Michail Pavlis](/people/#michailpavlis) 
 
 This research utilises secondary data sources to monitor and visualise the likely cumulative change in neighbourhood conditions as measured by the 2011 Census of Population. A range of open secondary data sources are used to facilitate the updating of the Office for National Statistics (ONS) Output Area Classification during the immediate (2012-13) post Census period.
 
 ### Expanding the Big e-Society: A Contemporary Model of Internet Exclusion, Access and Investment
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [ESRC](http://www.esrc.ac.uk)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Dean Riddlesden](http://localhost:4000/people/#deanriddlesden), [Alex Singleton](/people/#alexsingleton), Paul Williamson
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Dean Riddlesden](/people/#deanriddlesden), [Alex Singleton](/people/#alexsingleton), Paul Williamson
 
 This project maps the intersection between geographic disparities of UK Internet infrastructure with use and engagement patterns by the populations of small neighbourhood areas. 
 
 ### Walking in a Technological Context
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [ERDF](http://www.cgeinnovation.org/about/funding.php)
 <img class="img-icon" src="/public/images/iconmonstr-light-bulb-7-icon.svg"></img> [Walkingworld](http://www.walkingworld.com/)
-<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Liam Bratley](http://localhost:4000/people/#liambratley), [Alex Singleton](/people/#alexsingleton), Chris Lloyd
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [Liam Bratley](/people/#liambratley), [Alex Singleton](/people/#alexsingleton), Chris Lloyd
 
 <img src="/public/images/scenic.png"></img>
 

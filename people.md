@@ -16,13 +16,13 @@ Alex is a Reader in Geographic Information Science.  He was appointed to the uni
 
 
 <a id="alexanderalexiou"></a>
-## Alexander N. Alexiou <div class="avatar-frame"><img src="/public/images/alexanderalexiou.png"></img></div>
+## Alekos Alexiou <div class="avatar-frame"><img src="/public/images/alexanderalexiou.png"></img></div>
 
 _PhD Candidate_
 
 Alekos holds a degree in Spatial Planning and Survey Engineering from the University of Thessaly with a distinction (1st) since 2007, as well as an MSc in Transport Planning from the Aristotle University of Thessaloniki (2008) and an MPhil in Planning from the University of Cambridge (2009). Alekos is interested in the creation of new models of urban socio-spatial structure that better account for both geographic context and the dynamics of population.
 
-<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [inkedin.com/in/alalexiou](http://www.linkedin.com/in/alalexiou)  
+<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [linkedin.com/in/alalexiou](http://www.linkedin.com/in/alalexiou)  
 <img class="img-icon" src="/public/images/iconmonstr-phone-icon.svg"></img> +44(0) 151 794 1355   
 <img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [a.alexiou@liverpool.ac.uk](mailto:a.alexiou@liverpool.ac.uk)  
 
@@ -34,9 +34,10 @@ _University Teacher / Researcher_
 
 Nick previously worked at the University of Exeter Medical School after completing his PhD at UEA. His research interests concern the use of GIS to solve novel problems, often with the use of customised design and programming to create solutions. His previous work has included sonification and epidemiology applications.
 
+<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [uk.linkedin.com/in/nickbearman/](http://uk.linkedin.com/in/nickbearman/)  
 <img class="img-icon" src="/public/images/iconmonstr-phone-icon.svg"></img> +44(0) 151 794 1355   
-<img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [N.Bearman@liverpool.ac.uk](mailto:N.Bearman@liverpool.ac.uk
-)
+<img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"></img> [nickbearmanuk](https://twitter.com/nickbearmanuk)  
+<img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [N.Bearman@liverpool.ac.uk](mailto:N.Bearman@liverpool.ac.uk)
 
 <a id="lindablade"></a>
 ## Linda Blade <div class="avatar-frame"><img src="/public/images/lindablade.png"></img></div>
@@ -78,6 +79,8 @@ Dean has a background in spatial planning; holding two masters degrees from the 
 
 <img class="img-icon" src="/public/images/iconmonstr-phone-icon.svg"></img> +44(0) 151 794 1355   
 <img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [d.riddlesden@liverpool.ac.uk](mailto:d.riddlesden@liverpool.ac.uk)
+<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [uk.linkedin.com/pub/dean-riddlesden/54/363/401](http://uk.linkedin.com/pub/dean-riddlesden/54/363/401)
+<img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"></img> [deanriddlesden](https://twitter.com/deanriddlesden)  
 
 <a id="michailpavlis"></a>
 ## Michail Pavlis <div class="avatar-frame"><img src="/public/images/michailpavlis.jpg"></img></div>
