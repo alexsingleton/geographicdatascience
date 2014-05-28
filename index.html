@@ -10,7 +10,7 @@ layout: default
     </h1>
     <span class="post-date">
     <img class="img-icon" src="/public/images/iconmonstr-calendar-5-icon.svg"></img>{{ post.date | date_to_string }}
-    <img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img>{{ post.author }}
+    <img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"><a href="/people/#{{ page.avatar }}"></img>{{ page.author }}</a>
     <img class="img-icon" src="/public/images/iconmonstr-tags-3-icon.svg"></img>{% for categories in post.categories %} {{ categories }} {% if forloop.last != true %} {% endif %} {% endfor %}
     <img class="img-icon" src="/public/images/iconmonstr-speech-bubble-14-icon.svg"></img><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a>
     <img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"><a href="https://twitter.com/share?url={{ site.url | uri_escape }}{{ post.url | uri_escape }}&text={{ post.title }}" target="_blank">Tweet this!</a>
