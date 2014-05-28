@@ -78,9 +78,9 @@ _PhD Candidate_
 Dean has a background in spatial planning; holding two masters degrees from the Univerity of Liverpool. His research explores how use and engagement with the Internet are differentiated across space and societal groups. His work employs a range of statistical modelling and data mining techniques with new and innovative data sources.
 
 <img class="img-icon" src="/public/images/iconmonstr-phone-icon.svg"></img> +44(0) 151 794 1355   
-<img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [d.riddlesden@liverpool.ac.uk](mailto:d.riddlesden@liverpool.ac.uk)
+<img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [d.riddlesden@liverpool.ac.uk](mailto:d.riddlesden@liverpool.ac.uk)   
 <img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img>
-[uk.linkedin.com/pub/dean-riddlesden/54/363/401](http://uk.linkedin.com/pub/dean-riddlesden/54/363/401)
+[uk.linkedin.com/pub/dean-riddlesden/54/363/401](http://uk.linkedin.com/pub/dean-riddlesden/54/363/401)   
 <img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"></img> [deanriddlesden](https://twitter.com/deanriddlesden)  
 
 <a id="michailpavlis"></a>
