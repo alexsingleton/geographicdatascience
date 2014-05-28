@@ -30,7 +30,8 @@ Such questions are raised by the Data Protection Act, with a useful overview / g
 
 The ICO recognise the increasing prevalence of analysis conducted within cloud settings, and have provided a [helpful set of guidance](http://ico.org.uk/for_organisations/data_protection/topic_guides/online/cloud_computing), including very useful disambiguation of those terms commonly used in cloud computing. Furthermore, details can also be found in EU working party article surrounding [data protection within cloud environments](http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2012/wp196_en.pdf). For anyone considering using cloud services, both of these documents are very helpful.
  
- ## Google Cloud Computing
+## Google Cloud Computing
+
 In our project looking at the estimation of CO2 emissions linked to the pupil-school commute, we considered cloud infrastructure as a method by which we could speed up computation, and specifically utilising [Google Compute Engine](https://developers.google.com/compute/docs/faq#selectedcountries). This infrastructure enables the deployment of linux based OS within a remote setting, enabling the benefit of large storage and flexible processing infrastructure. However, a critical constraint for our project was that the specification of countries in the Google Compute Engine could as a minimum only be isolated to the EU. Details can be found [here](https://developers.google.com/compute/docs/faq#selectedcountries), and none of the countries listed were within the UK ([Hamina, Finland](http://www.google.co.uk/about/datacenters/inside/locations/hamina/), 
 [St. Ghislain, Belgium](http://www.google.co.uk/about/datacenters/inside/locations/st-ghislain/), 
 [Dublin, Ireland](http://www.google.co.uk/about/datacenters/inside/locations/dublin/)). Secondly, as detailed on the [FAQ](https://developers.google.com/compute/docs/faq#selectedcountries) page, Google note:
