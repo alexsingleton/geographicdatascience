@@ -8,6 +8,10 @@ categories:
 - Job
 ---
 
+3 X Lecturers in Planning Grade 7 or 8
+
+<img src="/public/images/retail_esoc.jpg"></img>
+
 The successful candidates will deliver internationally excellent research in one or both of the following two departmental research areas:
 
 * [Spatial Planning and Impact Assessment](http://www.liv.ac.uk/geography-and-planning/research/spatial-planning-impact-assessment/about/)
