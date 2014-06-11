@@ -44,8 +44,6 @@ To register click on of the following links:
 
 * [Using R for Geodemographic Analysis (Thur 10th July)](https://www.eventbrite.co.uk/e/using-r-for-geodemographic-analysis-registration-11931027023)
 
-Information on getting to the University is available [here](http://www.liv.ac.uk/maps/visiting/)
-
-A map of the campus is available [here](http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
+Information on getting to the University is available [here](http://www.liv.ac.uk/maps/visiting/) and a map of the campus is available [here](http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf).
 
 The Jane Herdman building is number 201 in grid B9 on the map. 
