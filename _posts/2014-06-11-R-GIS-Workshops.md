@@ -8,6 +8,8 @@ categories:
 - Training
 ---
 
+<img src="/public/images/co2.png"></img>
+
 Two workshops on using R as a GIS are being run by the Geographic Data Science Lab at the University of Liverpool.
 
 *Course 1:* Using R for Google Map Making, Tuesday 8th July 2014, 11am - 4pm
