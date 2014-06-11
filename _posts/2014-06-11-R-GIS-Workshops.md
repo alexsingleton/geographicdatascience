@@ -38,7 +38,7 @@ No previous experience of GIS or R is required, but some experience of using spa
 
 These courses are supported by the ESRC and are free to attend. Refreshments and lunch are provided, although numbers are limited and allocated on a first come, first served basis.
 
-*To register click on of the following links:*
+To register click on of the following links:
 
 * [Using R for Google Map Making (Tue 8th July)](https://www.eventbrite.co.uk/e/using-r-for-google-map-making-registration-11915065281)
 
