@@ -13,8 +13,6 @@ categories:
 - training
 ---
 
-##R GIS Workshop Materials
-
 
 On 8th and 10th July I ran two courses on using R as a GIS. The first one focused on using Google Maps with R, and the second focused on using R for Geodemographic Analysis. The materials are available here to download and work through if you wish.
 
