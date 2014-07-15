@@ -2,7 +2,7 @@
 author: Les Dolega
 layout: post
 avatar: lesdolega
-title:  Mapping the drivers of British town centres and high street performance
+title: Geographical Models for Human Interaction
 categories:
 -retail
 ---
