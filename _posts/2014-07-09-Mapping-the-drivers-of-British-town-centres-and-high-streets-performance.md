@@ -2,7 +2,7 @@
 author: Les Dolega
 layout: post
 avatar: lesdolega
-title:  Mapping the drivers of British town centres/high streets performance
+title:  Mapping the drivers of British town centres and high street performance
 categories:
 -retail
 ---
