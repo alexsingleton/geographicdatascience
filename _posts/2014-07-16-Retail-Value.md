@@ -1,8 +1,8 @@
 ---
-author: Les
+author: Les Dolega
 layout: post
 avatar: lesdolega
-title: Test Posts
+title: Mapping the drivers of British town centres and high street performance
 comments: true
 categories:
 - Job
