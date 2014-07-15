@@ -4,7 +4,8 @@ layout: post
 avatar: lesdolega
 title:  Mapping the drivers of British town centres/high streets performance: value retailing
 comments: true
-- categories:
+categories:
+-retail
 ---
 
 ## Value Retailing
