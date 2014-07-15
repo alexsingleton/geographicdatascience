@@ -7,7 +7,7 @@ comments: true
 categories:
 - Retail
 ---
-
+###Value
 One of the most significant trends in the aftermath of the recent economic crisis has been the change in consumer expectations of value, presumably driven by a decline in households' disposable income. This is visible in British town centres by increases in value-related retailing such as second hand & charity shops and discount stores (e.g. 'poundlands' and '99p stores').  This trend highlighted by the media was exposed by [Wrigley and Dolega (2011)](http://www.envplan.com/abstract.cgi?id=a44270) who provided empirical evidence that charity shops and discount stores began to move into the vacant space between 2009 and 2011. More recently, [Local Data Company (LDC)](http://www.localdatacompany.com/) and [Oxford Institute of Retail Management (OXIRM)](http://www.sbs.ox.ac.uk/ideas-impact/oxirm) found that this trend intensified during 2011-13, recording an increase of around +12.4%. According to LDC (2013), there are now over 10,000 value related shops in British town centres and high Streets, comprising 9% of the total retail offering. 
 
 <img src="/public/images/EWValueRetail.jpg"></img>
