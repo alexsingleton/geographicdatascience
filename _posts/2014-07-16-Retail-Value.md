@@ -5,24 +5,18 @@ avatar: lesdolega
 title: Mapping the drivers of British town centres and high street performance
 comments: true
 categories:
-- Job
+- Retail
 ---
 
-3 X Lecturers in Planning Grade 7 or 8
+One of the most significant trends in the aftermath of the recent economic crisis has been the change in consumer expectations of value, presumably driven by a decline in households' disposable income. This is visible in British town centres by increases in value-related retailing such as second hand & charity shops and discount stores (e.g. 'poundlands' and '99p stores').  This trend highlighted by the media was exposed by [Wrigley and Dolega (2011)](http://www.envplan.com/abstract.cgi?id=a44270) who provided empirical evidence that charity shops and discount stores began to move into the vacant space between 2009 and 2011. More recently, [Local Data Company (LDC)](http://www.localdatacompany.com/) and [Oxford Institute of Retail Management (OXIRM)](http://www.sbs.ox.ac.uk/ideas-impact/oxirm) found that this trend intensified during 2011-13, recording an increase of around +12.4%. According to LDC (2013), there are now over 10,000 value related shops in British town centres and high Streets, comprising 9% of the total retail offering. 
 
-<img src="/public/images/retail_esoc.jpg"></img>
+<img src="/public/images/EWValueRetail.jpg"></img>
 
-The successful candidates will deliver internationally excellent research in one or both of the following two departmental research areas:
+The map above shows the spatial distribution of value retailing in England and Wales across the 1300 DCLG town centres. It can be seen that the highest proportion of value retailing is concentrated predominantly around secondary and smaller centres, with the exception of Kingston-Upon-Hull. 
 
-* [Spatial Planning and Impact Assessment](http://www.liv.ac.uk/geography-and-planning/research/spatial-planning-impact-assessment/about/)
-
-* [Modelling, Population and Geo-computation](http://www.liv.ac.uk/geography-and-planning/research/modelling-population-and-geocomputation/about/) - on this latter area, you might also like to see the GDSL [projects](/projects/) page.
-
-You will make a major contribution to the teaching of both Undergraduate and Postgraduate programmes in the field of Planning. The Undergraduate [MPlan](http://www.liv.ac.uk/study/undergraduate/courses/town-and-regional-planning-mplan/overview/) programme and the Postgraduate [Master of Civic Design (MCD)](http://www.liv.ac.uk/study/postgraduate/taught/town-and-regional-planning-mcd/overview/) are both accredited by the [Royal Town Planning Institute](http://www.rtpi.org.uk/). You should have a degree in a spatial planning related discipline (e.g. planning, geography, transport etc) and preference will be given to individuals with a Postgraduate qualification in a relevant subject.
-
-For more information and how to apply, see [here](http://www.liv.ac.uk/working/jobvacancies/currentvacancies/academic/a-507030/).
-
-**Closing Date Fri, 11 Jul 2014 17:00:00 BST.**
+Although the hotspots of value retailing are scattered around the country the North West has seen a higher concentration of value retailing than the Greater London area.
+<img src="/public/images/LValueRetail.jpg"></img>
+<img src="/public/images/NWValueRetail.jpg"></img>
 
 
 
