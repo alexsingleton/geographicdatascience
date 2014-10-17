@@ -10,7 +10,7 @@ categories:
 
 A workshop on **Introduction to QGIS: Understanding and Presenting Spatial Data** is being run by the Geographic Data Science Lab at the University of Liverpool.
 
-**Date:** Monday 11th November 2014, 9:30am – 4pm
+**Date:** Monday 17th November 2014, 9:30am – 4pm
 
 **Venue:** Training Room 1, Sydney Jones Library, University of Liverpool
 
