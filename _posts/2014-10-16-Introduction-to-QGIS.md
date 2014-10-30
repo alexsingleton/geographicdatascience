@@ -30,7 +30,7 @@ If you are already familiar with the basic elements of GIS, you may wish to atte
 - £175 – all other participants including staff from commercial organisations
 
 ####Registration:
-Details of registration will follow. Please email <mailto:n.bearman@liverpool.ac.uk> to reserve your place.
+Registeration avaliable [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=38&catid=38&prodid=726). Please email <mailto:n.bearman@liverpool.ac.uk> if you have any queries.
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
