@@ -4,7 +4,7 @@ layout: post
 title: "Modelling individual level routes and CO<sub>2</sub> emissions for home to school travel"
 comments: true
 catagories: 
--R
+- R
 ---
 
 We have recently published a paper in the Journal of Transport and Health where we modelled the impact on CO<sub>2</sub> emissions of an increased uptake of active travel for the home to school commute. The [paper](http://dx.doi.org/10.1016/j.jth.2014.09.009i) s freely available to anyone under Gold Open Access, with a [CC-BY Attribution license](https://creativecommons.org/licenses/by/3.0/). 
