@@ -7,7 +7,7 @@ categories:
 - R
 ---
 
-We have recently published a paper in the Journal of Transport and Health where we modelled the impact on CO<sub>2</sub> emissions of an increased uptake of active travel for the home to school commute. The [paper](http://dx.doi.org/10.1016/j.jth.2014.09.009i) s freely available to anyone under Gold Open Access, with a [CC-BY Attribution license](https://creativecommons.org/licenses/by/3.0/). 
+We have recently published a paper in the Journal of Transport and Health where we modelled the impact on CO<sub>2</sub> emissions of an increased uptake of active travel for the home to school commute. The [paper](http://dx.doi.org/10.1016/j.jth.2014.09.009) is freely available to anyone under Gold Open Access, with a [CC-BY Attribution license](https://creativecommons.org/licenses/by/3.0/). 
 
 One of the challenges in this paper, building upon [Singleton, 2014](http://dx.doi.org/10.1080/13658816.2013.832765) was being able to model individual routes from home to school for all ~7.5 million school children in England. In addition to origin and destination locations, we also know what modes of travel are typically used to get to school, thanks to the School Census (also known as the [National Pupil Database](https://www.gov.uk/government/collections/national-pupil-database). While modelling a small number of routes is relatively straight forward to perform within a GIS, the challenge was to complete the routing for all 7.5 million records in the data set. 
 
