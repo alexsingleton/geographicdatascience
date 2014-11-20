@@ -32,4 +32,4 @@ To run the routing for each pupil for four years worth of data (we had data from
 
 Singleton, A. 2014. “A GIS Approach to Modelling CO<sub>2</sub> Emissions Associated with the Pupil-School Commute.” International Journal of Geographical Information Science 28 (2): 256–73. doi:10.1080/13658816.2013.832765.
 
-Cross-posted on (http://www.nickbearman.me.uk/)[http://www.nickbearman.me.uk/2014/11/modelling-individual-level-routes-and-co2-emissions-for-home-to-school/]
+Cross-posted on [http://www.nickbearman.me.uk/](http://www.nickbearman.me.uk/2014/11/modelling-individual-level-routes-and-co2-emissions-for-home-to-school/)
