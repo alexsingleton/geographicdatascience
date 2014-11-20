@@ -3,7 +3,7 @@ author: Nick Bearman
 layout: post
 title: "Modelling individual level routes and CO<sub>2</sub> emissions for home to school travel"
 comments: true
-catagories: 
+categories:
 - R
 ---
 
