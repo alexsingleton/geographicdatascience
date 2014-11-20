@@ -12,7 +12,7 @@ One of the challenges in this paper, building upon (Singleton, 2014)[http://dx.d
 
 To calculate the route, we used a combination of two different pieces of software - Routino and pgRouting. [Routino](http://www.routino.org/) allows us to use [OpenStreetMap](http://www.openstreetmap.org/) data to derive a road-based route from given start and end points, using a number of different profiles for either car, walking, cycling or bus. The profile used is important, as it allows the software to take into account one-way streets (i.e. not applicable to walking, but applicable to driving), footpaths (i.e. applicable to walking only), cycle lanes, bus lanes, etc.. The screenshot below shows an example route, calculated by Routino. 
 
-![Screenshot of routing within Routino](routing.png)
+![Screenshot of routing within Routino](/public/images/routing.png)
 
 Example of the route calculated using Routino for a car travelling from Rosslyn Street (1) to Granby Street (2).  
 © OpenStreetMap contributors, http://www.openstreetmap.org/copyright.
@@ -22,7 +22,7 @@ For railway, tram or tube travel, this was implemented using [pgRouting](http://
 Routino and pgRouting were called using R, which also managed the large amounts of data, subsequently calculated the CO<sub>2</sub> emissions model, and created graphical outputs (see below).
 
 
-![Map of CO<sub>2</sub> emissions (grouped by residence LSOA) for Norfolk](fig4_co2_baseline.png)
+![Map of CO<sub>2</sub> emissions (grouped by residence LSOA) for Norfolk](/public/images/fig4_co2_baseline.png)
   
 Map of CO<sub>2</sub> emissions (grouped by residence LSOA) for Norfolk.
 
