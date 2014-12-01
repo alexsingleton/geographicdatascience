@@ -2,7 +2,7 @@
 author: Nick Bearman
 layout: post
 avatar: nickbearman
-title: Introduction to QGIS
+title: Introduction to Using R for Spatial Analysis
 comments: true
 categories:
 - Training Course
