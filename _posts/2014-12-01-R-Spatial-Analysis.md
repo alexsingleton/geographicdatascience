@@ -26,7 +26,7 @@ If you are not familiar with the basic elements of GIS, you may wish to attend t
 
 ####Costs:
 - £45 – UK registered students
-- £90 – staff at UK academic institutions and research centres, UK-registered charity and voluntary organisations, staff in public sector and government
+- £85 – staff at UK academic institutions and research centres, UK-registered charity and voluntary organisations, staff in public sector and government
 - £220 – all other participants including staff from commercial organisations  
 
 *reduced prices are available for University of Liverpool affiliated students and staff*
