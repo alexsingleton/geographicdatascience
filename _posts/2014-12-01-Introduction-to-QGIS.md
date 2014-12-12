@@ -32,7 +32,7 @@ If you are already familiar with the basic elements of GIS, you may wish to atte
 *reduced prices are available for University of Liverpool affiliated students and staff*
 
 ####Registration:
-Details of registration will follow. Please email <mailto:n.bearman@liverpool.ac.uk> to reserve your place.
+Registration available [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=38&catid=38&prodid=770). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information.
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
