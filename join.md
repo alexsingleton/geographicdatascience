@@ -6,7 +6,7 @@ title: Join Us
 There are on going opportunities to join GDSL.
 
 ##Masters
-We have an exciting [MSc in Geographic Data Science](http://www.liv.ac.uk/study/postgraduate/taught/applied-geographical-information-science-msc/overview/) the full details of which can be found here on the programme page; however, we have also produced a flyer that can be downloaded here.
+We have an exciting [MSc in Geographic Data Science](https://www.liv.ac.uk/study/postgraduate/taught/geographic-data-science-msc/overview/) the full details of which can be found here on the programme page; however, we have also produced a flyer that can be downloaded here.
 
 ##PhD
 We are interested in hearing from excellent candidates [1st, 2.1 (or equivalent) at undergraduate] from a variety of backgrounds including but not limited to GIS, geocomputation, quantitative geography social science (geography, planning, sociology etc), social statistics, computer science, physics or mathematics.
