@@ -32,7 +32,7 @@ Experience of creating maps in ArcGIS, QGIS or similar is required, but experien
 Details of registration will follow. Please email <mailto:n.bearman@liverpool.ac.uk> to reserve your place specifying which course you wish to attend.
 
 ####Other Locations:
-This course is also running in Liverpool on Monday 27th April, more information [available here](http://geographicdatascience.com/training%20course/2015-03-19-R-Spatial-Analysis-Liverpool/). 
+This course is also running in Liverpool on Monday 27th April, more information [available here](http://geographicdatascience.com/training%20course/2015/03/19/R-Spatial-Analysis-Liverpool/). 
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/study/london/about/location/](http://www.liv.ac.uk/study/london/about/location/)
