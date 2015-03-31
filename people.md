@@ -4,7 +4,7 @@ title: People
 ---
 <a id="alexsingleton"></a>
 ## Alex Singleton <div class="avatar-frame"><img src="/public/images/alexsingleton.jpg"></img></div>
-_Reader in Geographic Information Science_  
+_Professor of Geographic Information Science_  
 
 Alex is a Professor of Geographic Information Science.  He was appointed to the university as a Lecturer in 2010, promoted to Reader in 2014 and previously held research positions at University College London from 2003. He holds a PhD from UCL and a BSc (1st class Hons) in Geography from the University of Manchester. Alex's research concerns how social and spatial complexities of individual behaviour can be represented and understood within a framework of quantitative social science and computer modelling. In particular, his research has extended a geographic tradition of area classification, developing a broad critique of the ways in which geodemographic methods can be refined through modern scientific approaches to data mining, geographic information science and quantitative human geography.
 
