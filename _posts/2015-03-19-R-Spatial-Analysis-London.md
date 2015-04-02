@@ -10,13 +10,13 @@ categories:
 
 A workshop on **Introduction to Using R for Spatial Analysis** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool in London.
 
-**Date:** Wednesday 29th April 2015, 9:30am – 4pm
+**Date:** Wednesday 29th April 2015, 10am – 4pm
 
 **Venue**: PC Suite 1, University of Liverpool in London, 33 Finsbury Square, London, EC2A 1AG
 
 **Instructor:** Dr Nick Bearman
 
-**Cost:** £49 student, £125 HE / public sector, £300 commercial *(see below for details)*
+**Cost:** £49 student, £110 HE / public sector, £300 commercial *(see below for details)*
 
 This course will cover an introduction to R, how to load and manage spatial data and how to create maps using R. We will look at appropriate ways of using classifications for choropleth maps, using loops in R to create multiple maps and some basic spatial analysis. We will be using R Studio to work with the R environment. By the end of the course you will be able to load data into R, represent it effectively and be able to prepare an output quality map. 
 

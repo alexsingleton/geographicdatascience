@@ -16,7 +16,7 @@ A workshop on **Introduction to Using R for Spatial Analysis** is being run by t
 
 **Instructor:** Dr Nick Bearman
 
-**Cost:** £45 student, £85 HE / public sector, £200 commercial *(see below for details)*
+**Cost:** £45 student, £80 HE / public sector, £200 commercial *(see below for details)*
 
 This course will cover an introduction to R, how to load and manage spatial data and how to create maps using R. We will look at appropriate ways of using classifications for choropleth maps, using loops in R to create multiple maps and some basic spatial analysis. We will be using R Studio to work with the R environment. By the end of the course you will be able to load data into R, represent it effectively and be able to prepare an output quality map. 
 
