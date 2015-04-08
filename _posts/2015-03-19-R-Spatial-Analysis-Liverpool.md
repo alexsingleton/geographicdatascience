@@ -29,7 +29,7 @@ Experience of creating maps in ArcGIS, QGIS or similar is required, but experien
 *reduced prices are available for University of Liverpool affiliated students and staff*
 
 ####Registration:
-Details of registration will follow. Please email <mailto:n.bearman@liverpool.ac.uk> to reserve your place specifying which course you wish to attend.
+Please register online at [http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=316](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=316). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
 
 ####Other Locations:
 This course is also running in London on Wednesday 29th April, more information [available here](http://geographicdatascience.com/training%20course/2015/03/19/R-Spatial-Analysis-London/). 
