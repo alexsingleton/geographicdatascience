@@ -2,7 +2,7 @@
 author: Nick Bearman
 layout: post
 avatar: nickbearman
-title: Introduction to QGIS: Understanding and Presenting Spatial Data
+title: Introduction to QGIS Understanding and Presenting Spatial Data
 comments: true
 categories:
 - Training Course

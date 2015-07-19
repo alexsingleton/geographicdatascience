@@ -32,7 +32,7 @@ Experience of creating maps in ArcGIS, QGIS or similar is preferable, but not re
 ####Registration:
 Please register online at [URL to follow](x). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
 
-####Other Locations: (UPDATE)
+####Other Locations:
 This course is also running in London in December (detail to follow). Please email <mailto:n.bearman@liverpool.ac.uk> to be added to the mailing list to hear about future courses. 
 
 ####Location:
