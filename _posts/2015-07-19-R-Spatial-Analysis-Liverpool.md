@@ -30,7 +30,7 @@ Experience of creating maps in ArcGIS, QGIS or similar is preferable, but not re
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
 ####Registration:
-Please register online at [URL to follow](x). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
+Please register [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=375). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
 
 ####Other Locations:
 This course is also running in London in December (detail to follow). Please email <mailto:n.bearman@liverpool.ac.uk> to be added to the mailing list to hear about future courses. 

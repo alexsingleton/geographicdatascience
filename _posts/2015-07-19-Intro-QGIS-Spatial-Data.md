@@ -22,17 +22,17 @@ This course will introduce spatial data and show you how to import and display s
 
 No previous experience of GIS or QGIS is required, but some experience of using spatial data will be beneficial. Please email Nick for more information. Refreshments and lunch are provided, and numbers on the course are limited and allocated on a first come, first served basis.
 
-If you are already familiar with the basic elements of GIS, you may wish to attend the course “Introduction to Using R for Spatial Analysis” instead where we build on basic GIS skills [more details](LINK).
+If you are already familiar with the basic elements of GIS, you may wish to attend the course “Introduction to Using R for Spatial Analysis” instead where we build on basic GIS skills ([more details](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=375)).
 
 ####Costs:
 - £45 – UK registered students
 - £80 – staff at UK academic institutions and research centres, UK-registered charity and voluntary organisations, staff in public sector and government
-- £200 – all other participants including staff from commercial organisations
+- £200 – all other participants including staff from commercial organisations  
 *reduced prices are available for University of Liverpool affiliated students and staff*
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
 ####Registration:
-Please register online at [URL to follow](x). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
+Please register [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=371). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
