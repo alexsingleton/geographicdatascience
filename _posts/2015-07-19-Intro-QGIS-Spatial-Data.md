@@ -22,7 +22,7 @@ This course will introduce spatial data and show you how to import and display s
 
 No previous experience of GIS or QGIS is required, but some experience of using spatial data will be beneficial. Please email Nick for more information. Refreshments and lunch are provided, and numbers on the course are limited and allocated on a first come, first served basis.
 
-If you are already familiar with the basic elements of GIS, you may wish to attend the course “Introduction to Using R for Spatial Analysis” instead where we build on basic GIS skills ([more details](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=375)).
+If you are already familiar with the basic elements of GIS, you may wish to attend the course “Introduction to Using R for Spatial Analysis” instead where focus on applying these GIS skills in R, and develop your spatial analysis skills ([more details](http://geographicdatascience.com/training%20course/2015/07/19/R-Spatial-Analysis-Liverpool/)).
 
 ####Costs:
 - £45 – UK registered students

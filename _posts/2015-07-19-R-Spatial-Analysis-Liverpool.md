@@ -22,6 +22,8 @@ This course will cover an introduction to R, how to load and manage spatial data
 
 Experience of creating maps in ArcGIS, QGIS or similar is preferable, but not required. Experience of using R is not required. Please email Nick for more information. Refreshments and lunch are provided, and numbers on the course are limited and allocated on a first come, first served basis.
 
+If you are not already familiar with the basic elements of GIS, you may wish to attend the course “Introduction to QGIS: Understanding and Presenting Spatial Data” instead where we build on basic GIS skills ([more details](http://geographicdatascience.com/training%20course/2015/07/19/Intro-QGIS-Spatial-Data/)).
+
 ####Costs:
 - £45 – UK registered students
 - £80 – staff at UK academic institutions and research centres, UK-registered charity and voluntary organisations, staff in public sector and government
