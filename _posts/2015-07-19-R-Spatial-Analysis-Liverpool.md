@@ -35,7 +35,7 @@ If you are not already familiar with the basic elements of GIS, you may wish to 
 Please register [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=375). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
 
 ####Other Locations:
-This course is also running in London in December (detail to follow). Please email <mailto:n.bearman@liverpool.ac.uk> to be added to the mailing list to hear about future courses. 
+This course is also running in Liverpool [(1st Dec)](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=405) and London [(2nd Dec)](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=406). Please email <mailto:n.bearman@liverpool.ac.uk> to be added to the mailing list to hear about future courses. 
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
