@@ -22,7 +22,7 @@ _PhD Candidate_
 
 Alekos holds a degree in Spatial Planning and Survey Engineering from the University of Thessaly with a distinction (1st) since 2007, as well as an MSc in Transport Planning from the Aristotle University of Thessaloniki (2008) and an MPhil in Planning from the University of Cambridge (2009). Alekos is interested in the creation of new models of urban socio-spatial structure that better account for both geographic context and the dynamics of population.
 
-<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [linkedin.com/in/alalexiou](http://www.linkedin.com/in/alalexiou)  
+<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [linkedin.com/in/alalexiou](http://www.linkedin.com/in/alalexiou)
 <img class="img-icon" src="/public/images/iconmonstr-phone-icon.svg"></img> +44(0) 151 794 1355
 <img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [a.alexiou@liverpool.ac.uk](mailto:a.alexiou@liverpool.ac.uk)  
 
@@ -40,7 +40,7 @@ Nick previously worked at the University of Exeter Medical School after completi
 <img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [N.Bearman@liverpool.ac.uk](mailto:N.Bearman@liverpool.ac.uk)
 
 <a id="lindablade"></a>
-## Linda Blade <div class="avatar-frame"><img src="/public/images/lindablade.png"></img></div>
+## Linda Blade <div class="avatar-frame"><img src="/public/images/lindablade.jpg"></img></div>
 
 _PhD Candidate_
 
