@@ -5,7 +5,7 @@ avatar: nickbearman
 title: Introduction to Using R for Spatial Analysis
 comments: true
 categories:
-- Training Course
+- Training
 ---
 
 A workshop on **Introduction to Using R for Spatial Analysis** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool.
@@ -32,14 +32,14 @@ If you are not already familiar with the basic elements of GIS, you may wish to 
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
 ####Registration:
-Please register [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=375). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
+Please register [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=375). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information.
 
 ####Other Locations:
-This course is also running in Liverpool [(1st Dec)](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=405) and London [(2nd Dec)](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=406). Please email <mailto:n.bearman@liverpool.ac.uk> to be added to the mailing list to hear about future courses. 
+This course is also running in Liverpool [(1st Dec)](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=405) and London [(2nd Dec)](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=406). Please email <mailto:n.bearman@liverpool.ac.uk> to be added to the mailing list to hear about future courses.
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
 
 A map of the campus is available at: [http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf](http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
 
-The Sydney Jones Library is building number 423 in grid F3 on the map. 
+The Sydney Jones Library is building number 423 in grid F3 on the map.

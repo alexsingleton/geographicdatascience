@@ -5,7 +5,7 @@ avatar: nickbearman
 title: Introduction to QGIS Understanding and Presenting Spatial Data
 comments: true
 categories:
-- Training Course
+- Training
 ---
 
 A workshop on **Introduction to QGIS: Understanding and Presenting Spatial Data** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool.
@@ -32,11 +32,11 @@ If you are already familiar with the basic elements of GIS, you may wish to atte
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
 ####Registration:
-Please register [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=371). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
+Please register [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=371). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information.
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
 
 A map of the campus is available at: [http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf](http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
 
-The Sydney Jones Library is building number 423 in grid F3 on the map. 
+The Sydney Jones Library is building number 423 in grid F3 on the map.
