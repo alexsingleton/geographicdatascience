@@ -15,4 +15,4 @@ Dolega, L., Pavlis. M., Singleton, A., 2016. Estimating Attractiveness, Hierarch
 
 This paper provides an extension to single store or shopping centre retail catchment estimation techniques, and presents an empirically specified and tested spatial interaction model for a national network of retail centres in the UK. The model accounts for the spatial interactions between potential customers and a hierarchical network of retail centres to estimate patronage probabilities and catchment extents. It was tested for a large metropolitan area vis-a-vis real world shopping flows recorded through a survey of shoppers. The model is available as an open source tool and its commercial and empirical value is potentially very significant. The method could be implemented in a wide range of applications that require insights for a national or regional extent, for example, generation of a cross-regional statistics for consistently defined retail catchments.
 
-![catchment](/public/images/Man_Huff.jpg) 
+![catchment](/public/images/Man_Huff.png)
