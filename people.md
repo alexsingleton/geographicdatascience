@@ -15,6 +15,26 @@ Alex is a Professor of Geographic Information Science.  He was appointed to the 
 <img class="img-icon" src="/public/images/iconmonstr-email-2-icon.svg"></img> [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk)  
 
 
+<a id="darribas"></a>
+## Dani Arribas-Bel <div class="avatar-frame"><img src="/public/images/darribas.JPG"></img></div>
+_Lecturer in Geographic Data Science_  
+
+Dani joined the Geographic Data Science Lab in October 2015. Previously, he
+held positions as Lecturer in Human Geography at the University of Birmingham, postdoctoral
+researcher at the Department of Spatial Economics at the VU University
+(Amsterdam), and postdoctoral researcher at the GeoDa Center for Geospatial
+Analysis and Computation at Arizona State University. Trained as an economist,
+Dani is interested in the spatial structure of cities as well as in the
+quantitative and computational methods required to leverage the power of the
+large amount of urban data increasingly becoming available. He is also part of
+the team of core developers of [PySAL](http://pysal.org), the open-source library written in
+Python for spatial analysis.
+
+<img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img> [www.darribas.org](www.darribas.org)  
+<img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"></img> [darribas](https://twitter.com/darribas)  
+<img class="img-icon" src="/public/images/iconmonstr-linkedin-3-icon-black.svg"></img> [uk.linkedin.com/in/darribas](https://uk.linkedin.com/in/darribas)  
+
+
 <a id="alexanderalexiou"></a>
 ## Alekos Alexiou <div class="avatar-frame"><img src="/public/images/alexanderalexiou.jpg"></img></div>
 
