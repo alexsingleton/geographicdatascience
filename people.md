@@ -16,7 +16,7 @@ Alex is a Professor of Geographic Information Science.  He was appointed to the 
 
 
 <a id="darribas"></a>
-## Dani Arribas-Bel <div class="avatar-frame"><img src="/public/images/darribas.JPG"></img></div>
+## Dani Arribas-Bel <div class="avatar-frame"><img src="/public/images/darribas.jpg"></img></div>
 _Lecturer in Geographic Data Science_  
 
 Dani joined the Geographic Data Science Lab in October 2015. Previously, he
