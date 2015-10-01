@@ -6,6 +6,7 @@ title: New publication - Retail Centre Catchments
 comments: true
 categories:
 - Paper
+- CDRC
 
 ---
 A recent publication on 'Estimating Attractiveness, Hierarchy and Catchment Area Extents for a National Set of Retail Centre Agglomerations' has just been published in the Journal of Retailing and Consumer Services:  
