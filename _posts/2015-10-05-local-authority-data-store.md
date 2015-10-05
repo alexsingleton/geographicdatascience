@@ -12,11 +12,11 @@ Using open data can be challenging, and especially for new users or those with l
 
 As part of the [ESRC Consumer Data Research Centre](https://www.cdrc.ac.uk/), we have spent the summer working on a new project that creates an open datastore for each local authority in the UK. 
 
-**These are available here: https://data.cdrc.ac.uk/lad**
+**These are available here: [https://data.cdrc.ac.uk/lad](https://data.cdrc.ac.uk/lad)**
 
 ![datastore](/public/images/lad.png)
 
-Each local authority also have a separate URL for their own datastore; so, Liverpool could be found here for example: https://data.cdrc.ac.uk/lad/liverpool
+Each local authority also have a separate URL for their own datastore; so, Liverpool could be found here for example: [https://data.cdrc.ac.uk/lad/liverpool](https://data.cdrc.ac.uk/lad/liverpool)
 
 We do not believe in simple replication of data sources available elsewhere, and we have **added value** to each open data deposit by reengineering these into new formats that are optimized for simple analysis, and which we hope are going to limit barriers to entry.
 
