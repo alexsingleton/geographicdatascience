@@ -30,7 +30,7 @@ For those technically inclined, the software platform is based upon highly custo
 
 ![maps](/public/images/map_LAD.png)
 
-The datapacks were all scripted, and created using a combination of [R](https://www.r-project.org/), [Python](https://www.python.org/) and [PostGIS](http://postgis.net/).
+The data packs were all scripted, and created using a combination of [R](https://www.r-project.org/), [Python](https://www.python.org/) and [PostGIS](http://postgis.net/).
 
 Thanks in particular go to the hard work of Data Scientists [Wen Li](http://www.geog.ucl.ac.uk/about-the-department/people/research-staff/research-staff/wen-li/), [Hai Nguyen](http://geographicdatascience.com/people/#hainguyen) and [Michail Pavlis](http://geographicdatascience.com/people/#michailpavlis) who have spent much of summer working on this project.
 
