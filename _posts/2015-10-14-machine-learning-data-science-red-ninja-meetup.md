@@ -2,7 +2,7 @@
 author: Nick Bearman
 layout: post
 avatar: nickbearman
-title: Machine Learning and Data Science meetup, Red Ninja, Liverpool
+title: Machine Learning and Data Science meetup, Red Ninja
 comments: true
 categories:
 - conference
@@ -13,7 +13,7 @@ On Monday a group of us attended a [Machine Learning and Data Science](http://ww
 
 I had no background in machine learning, and learnt that it is a relatively new concept that is still being developing, both in terms of the technology used to implement it and the concepts and terms around it (for example there is no one standard defination. Munsoor mentioned [Apache Hadoop](https://hadoop.apache.org/) and [Spark](http://spark.apache.org/), as well as [Spark R](https://spark.apache.org/docs/latest/sparkr.html). Matthew defined it as any algorithm that involves some type of feedback loop, so the algorithm can learn, which works well for me. 
 
-Red Ninja have hosted three of these meet ups now and are planning more in the [future][(http://www.meetup.com/Liverpool-Machine-Learning-and-AI/). Their office is in the Elevator Studios and they are "a design-led technology company, grown in Liverpool and working across the world". As a part of the evening they ran a competition for the best Tweet, which I won with this tweet:
+Red Ninja have hosted three of these meet ups now and are planning more in the [future](http://www.meetup.com/Liverpool-Machine-Learning-and-AI/). Their office is in the Elevator Studios and they are "a design-led technology company, grown in Liverpool and working across the world". As a part of the evening they ran a competition for the best Tweet, which I won with this tweet:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/NinjaLabs?src=hash">#NinjaLabs</a> Shop Direct - Very, Littlewoods, just sent their last paper catalogue out, now website only!</p>&mdash; Nick Bearman (@NickBearmanUK) <a href="https://twitter.com/NickBearmanUK/status/653641943264690176">October 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
