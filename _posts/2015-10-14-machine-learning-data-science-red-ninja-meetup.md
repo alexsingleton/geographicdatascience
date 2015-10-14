@@ -6,6 +6,7 @@ title: Machine Learning and Data Science meetup, Red Ninja, Liverpool
 comments: true
 categories:
 - conference
+- cdrc
 ---
 
 On Monday a group of us attended a [Machine Learning and Data Science](http://www.meetup.com/Liverpool-Machine-Learning-and-AI/events/225747902/) meetup, hosted by [Red Ninja](http://www.redninja.co.uk/) in Liverpool. Munsoor Negyal and Matthew Doubleday from Shop Direct talked about how they used machine learning and data science in their data analytics work at Shop Direct. 
