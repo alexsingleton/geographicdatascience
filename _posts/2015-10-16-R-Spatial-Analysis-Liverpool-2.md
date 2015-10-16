@@ -30,10 +30,10 @@ Experience of creating maps in ArcGIS, QGIS or similar is preferable, but not re
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
 ####Registration:
-Please register online at [x](x). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
+Please register online at [http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=405](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=405). Please email <mailto:n.bearman@liverpool.ac.uk> if you need any more information. 
 
-####Other Locations: (UPDATE)
-This course is also running in London on Wednesday 2nd December, more information [available here](http://geographicdatascience.com/training%20course/2015/03/19/R-Spatial-Analysis-London/). 
+####Other Locations:
+This course is also running in London on Wednesday 2nd December, more information [available here](http://geographicdatascience.com/training%20course/2015/10/16/R-Spatial-Analysis-London/). 
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
