@@ -17,7 +17,7 @@ Tables 1 and 2 show the 20 most deprived and 20 least deprived catchments respec
 
 The map below shows retail catchments in the North West classified by the proportion of the most deprived LSOAs.  
 
-![Most_Deprived_catchments](/public/images/Most_Deprived_catchments.png) 
+[![Most_Deprived_catchments](/public/images/Most_Deprived_catchments.png)](/public/images/Most_Deprived_catchments_large.png)
 
 
 References:
