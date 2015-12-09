@@ -1,43 +1,59 @@
 ---
-layout: default
+layout: index
+title: Home
+permalink: /
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h1>
-    <span class="post-date">
-    <img class="img-icon" src="/public/images/iconmonstr-calendar-5-icon.svg"></img>{{ post.date | date_to_string }}
-    <img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"><a href="/people/#{{ post.avatar }}"></img>{{ post.author }}</a>
-    <img class="img-icon" src="/public/images/iconmonstr-tags-3-icon.svg"></img>{% for categories in post.categories %} {{ categories }} {% if forloop.last != true %} {% endif %} {% endfor %}
-    <img class="img-icon" src="/public/images/iconmonstr-speech-bubble-14-icon.svg"></img><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a>
-    <img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"><a href="https://twitter.com/share?url={{ site.url | uri_escape }}{{ post.url | uri_escape }}&text={{ post.title }}" target="_blank">Tweet this!</a>
-</span>
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+            <div class="col-md-4">
+                <i class="fa fa-heart-o"></i>
+                <h4>MSc Geographic Data Science</h4>
+                <p>Now recruiting for 2016 entry. View our  <a href = "/masters/">e-brochure</a> or click the button for more information.</p>
+                <p><br/><a href="https://www.liv.ac.uk/study/postgraduate/taught/geographic-data-science-msc/" class="btn btn-theme">More Info</a></p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-industry"></i>
+                <h4>Career Profiles</h4>
+                <p>These career profiles highlight some of the interesting and varied work within the geographic data science sector.</p>
+                <p><br/><a href="/blog/careers/GDS-career-profiles/" class="btn btn-theme">More Info</a></p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-graduation-cap"></i>
+                <h4>Training Resources</h4>
+                <p>Lots of materials that introduce you to software and techniques of Geographic Data Science.</p>
+                <p><br/><a href="#" class="btn btn-theme">Coming Soon...</a></p>
+            </div>		 				
+        </div>
+    </div><! --/container -->
+</div><! --/service -->
 
+{% include projects.html title="Our Projects" limit=10 %}
 
-      {{ post.content | split: '<!-- more -->' | first }}
-      <HR>
-  </div>
-  {% endfor %}
-</div>
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-1">
+            <h4>About us.</h4>
+            <p>{{ site.about }}</p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+        </div>
 
+        <div class="col-lg-3">
+            <h4>Frequently Asked</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['question'] %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            {% endfor %}
+        </div>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="older">Older</a>
-  {% else %}
-    <span class="next">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a href="/" class="newer">Newer</a>
-    {% else %}
-      <a href="/page{{paginator.previous_page}}" class="newer">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="previous">Newer</span>
-  {% endif %}
-</div>
+        <div class="col-lg-3">
+            <h4>Latest Posts</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['blog'] limit:5 %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            {% endfor %} 
+        </div>
+
+    </div><! --/row -->
+</div><! --/container -->

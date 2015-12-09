@@ -1,0 +1,16 @@
+---
+layout: project
+title:  "ESRC Consumer Data Research Centre"
+date:   2015-12-09
+author: Alex Singleton
+categories:
+- project
+img: cdrc.png
+carousel:
+- c_cdrc.png
+tagged: cdrc, esrc, retail
+website: http://www.cdrc.ac.uk
+---
+####ESRC Consumer Data Research Centre
+
+As part of a major investment in the acquisition, management and analysis of Big Data, the Economic and Social Research Council is investing c £6 million over five years in the Retail Business Datasafe (RBDS), based at University College London (UCL) in partnership with the University of Liverpool and the University of Oxford. In addition to a freestanding programme of research into the retail sector, the RBDS will also work in partnership with the University of Leeds to create the Consumer Data Research Centre (CDRC), which will create, supply, maintain and deliver consumer-related Big Data to a range of end users, and which will also provide a range of outreach activities.

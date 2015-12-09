@@ -1,0 +1,17 @@
+---
+layout: project
+title:  "Mapping Retail Sector Business Rate Inequalities"
+date:   2014-04-25 16:54:46
+author: Alex Singleton
+categories:
+- project
+img: voa.png
+carousel:
+- c_voa.png
+- c_voa2.png
+- c_voa3.png
+tagged: voa, business rates, cdrc
+website: http://www.localdatacompany.com/reports
+---
+####Mapping Retail Sector Business Rate Inequalities
+This project examines geographic variation in business rates between retail centres of England and Wales, examining differences emerging within regions and also by composite retail function. The project is conducted in partnership with the Local Data Company (LDC) provides evidence that may be useful in reconfiguring future rates in order to serve issues of regional vitality and the economic health of town centres.

@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Emissions Linked to the School Commute"
+date:   2015-12-09
+author: Alex Singleton
+categories:
+- project
+img: co2.png
+carousel:
+- c_co2.png
+- c_co22.png
+- c_co23.png
+tagged: transport, emissions, school commute
+website: https://data.cdrc.ac.uk/product/cdrc-2011-transport-map-book
+---
+####Vehicle Emissions Linked to the School Commute
+
+This "big data" research has produced a national coverage and geographically sensitive individual scale model of CO2 emissions linked to the school commute. This is the first time such a geographically detailed and extensive model has been created, and is enabled in this instance through the application of an innovative geocomputational methodology for the analysis of around 7.5 million individual level pupil school commuting records.
+
+####Publication
+[Singleton, A. (2013) A GIS Approach to Modelling CO2 Emissions Associated with the Pupil-School Commute. International Journal of Geographical Information Science, 28(2):256–273.](http://dx.doi.org/10.1080/13658816.2013.832765)

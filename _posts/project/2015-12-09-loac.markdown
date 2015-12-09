@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "London Output Area Classification"
+date:   2015-12-09
+author: Alex Singleton
+categories:
+- project
+img: loac.png
+carousel:
+- c_loac.png
+- c_loac2.png
+tagged: geodemographics, loac, London
+website: http://maps.cdrc.ac.uk/#/geodemographics/loac11
+---
+####London Output Area Classification
+
+Geodemographic classifications are categorical measures representing salient multidimensional population and built environment attributes of small areas. The UK Output Area Classification (OAC) is one such classification, created on behalf of the Office for National Statistics, and was built with an open methodology and entirely from 2011 Census variables. However, one criticism of national classifications such as OAC is that they do not adequately accommodate local or regional structures that diverge from national patterns. In this paper we explore this issue with respect to Greater London. We develop a London classification based upon the OAC methodology, and explore the extent to which these patterns are divergent from the national classification.
+
+####Publication
+[Singleton AD, Longley PA (2015) The internal structure of Greater London: a comparison of national and regional geodemographic models. Geo: Geography and Environment. 2:1, 69–87.](http://dx.doi.org/10.1002/geo2.7)
