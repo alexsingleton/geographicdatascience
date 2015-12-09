@@ -4,8 +4,8 @@
 title: Geographic Data Science Lab.
 description: "The Geographic Data Science Laboratory (GDSL) was established at the University of Liverpool with the aim of creating a centre of excellence for research and teaching within this emerging area"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/gds_website" #important: start with /
-url: "http://alexsingleton.com"
+baseurl: "/" #important: start with /
+url: "http://geographicdatascience.com"
 
 # Build settings
 markdown: kramdown
