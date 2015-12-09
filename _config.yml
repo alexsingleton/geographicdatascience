@@ -143,7 +143,14 @@ members:
       - title: envelope #use for email address
         url: mailto:A.Alexiou@liverpool.ac.uk
       - title: linkedin
-        url: http://linkedin.com/in/alalexiou       
+        url: http://linkedin.com/in/alalexiou
+  - name: Linda Wood
+    position: PhD Student
+    text: Data science, spatial analysis, social statistics, big data, retail
+    img: linda.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:l.blade@liverpool.ac.uk      
 # Clients information. Shown on Home and About pages.
 clients:
   - name: ESRC
