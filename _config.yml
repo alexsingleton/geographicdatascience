@@ -124,13 +124,6 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:Kaisa.Lahtinen@city.ac.uk
- - name: Linda Wood
-    position: PhD Student
-    text: Data science, spatial analysis, social statistics, big data, retail
-    img: linda.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:l.blade@liverpool.ac.uk
   - name: Dean Riddlesden
     position: Data Scientist / Industry Partner
     text: Retail, Internet Geography, Big Data, Broadband
