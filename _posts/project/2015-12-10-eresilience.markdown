@@ -8,6 +8,8 @@ categories:
 img: eres.png
 carousel:
 - c_eres.png
+- c_eres2.png
+- c_eres3.png
 tagged: retail catchments, online sales, retail centres, resilience
 website: maps.cdrc.ac.uk/#/retail/
 ---
