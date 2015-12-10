@@ -5,9 +5,9 @@ date:   2015-12-10
 author: Michail Pavlis
 categories:
 - project
-img: huff_lines_5.jpg
+img: huff_lines.jpg
 carousel:
-- huff_lines4.jpg
+- c_huff_lines.jpg
 tagged: Flat, UI, Development
 ---
 ####A National-Scale Huff Retail Gravity Model for England
