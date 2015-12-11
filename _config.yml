@@ -150,7 +150,14 @@ members:
     img: linda.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:l.blade@liverpool.ac.uk      
+        url: mailto:l.blade@liverpool.ac.uk
+  - name: Mark Green
+    position: Lecturer
+    text: Health-related behaviours, classifications, spatial statistics
+    img: mark.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:mark.green@liverpool.ac.uk
 # Clients information. Shown on Home and About pages.
 clients:
   - name: ESRC
