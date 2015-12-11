@@ -117,6 +117,13 @@ members:
         url: mailto:A.Alexiou@liverpool.ac.uk
       - title: linkedin
         url: http://linkedin.com/in/alalexiou
+  - name: Ffion Carney
+    position: PhD Student 
+    text: Transport planning, environmental analysis, and GIS
+    img: ffion.jpg
+    social:
+        - title: envelope #use for email address
+          url: mailto:f.carney@liverpool.ac.uk  
   - name: Alec Davies
     position: PhD Student 
     text: Health and lifestyle, fitness participation, healthy consumption
@@ -158,13 +165,7 @@ members:
         url: https://www.linkedin.com/in/dean-riddlesden-40136354
       - title: twitter
         url: https://twitter.com/deanriddlesden
-  - name: Ffion Carney
-    position: PhD Student 
-    text: Transport planning, environmental analysis, and GIS
-    img: ffion.jpg
-    social:
-        - title: envelope #use for email address
-          url: mailto:f.carney@liverpool.ac.uk  
+
 # Clients information. Shown on Home and About pages.
 
         
