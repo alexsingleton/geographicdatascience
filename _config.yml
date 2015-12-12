@@ -69,6 +69,13 @@ members:
         url: https://uk.linkedin.com/in/darribas
       - title: twitter
         url: http://twitter.com/darribas
+  - name: Mark Green
+    position: Lecturer
+    text: Health-related behaviours, classifications, spatial statistics
+    img: mark.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:mark.green@liverpool.ac.uk
   - name: Nick Bearman
     position: Research Associate & GIS Trainer
     text: Transport, reproducible research, open data, R, QGIS, sonification.
@@ -80,22 +87,6 @@ members:
         url: https://uk.linkedin.com/in/nickbearman
       - title: twitter
         url: http://twitter.com/nickbearmanuk
-  - name: Alec Davies
-    position: PhD Student 
-    text: Health and lifestyle, fitness participation, healthy consumption
-    img: alecdavis.jpg
-    social:
-        - title: envelope #use for email address
-          url: mailto:sgadavi3@liverpool.ac.uk
-        - title: linkedin
-          url: https://uk.linkedin.com/in/alec-davies-464a21b3       
-  - name: Michalis Pavlis
-    position: Data Scientist
-    text: Data Mining, Spatial Statistics, Scientific Computing, Open Source, Web
-    img: michalis.JPG
-    social:
-      - title: envelope #use for email address
-        url: mailto:mpavlis@liverpool.ac.uk
   - name: Les Dolega
     position: Data Scientist
     text: Retail, Resilience, Regional Studies, Geocomputation
@@ -110,13 +101,38 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:Hai.Hoang.Nguyen@liverpool.ac.uk
-  - name: Ellen Talbot
-    position: PhD Student
-    text: Transport, dynamic geodemographics, consumer behaviour
-    img: ellen.jpg
+  - name: Michalis Pavlis
+    position: Data Scientist
+    text: Data Mining, Spatial Statistics, Scientific Computing, Open Source, Web
+    img: michalis.JPG
     social:
       - title: envelope #use for email address
-        url: mailto:e.talbot@liverpool.ac.uk
+        url: mailto:mpavlis@liverpool.ac.uk
+  - name: Alekos Alexiou
+    position: PhD Student
+    text: Geodemographics, clustering, MAUP, R, open data
+    img: alekos.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:A.Alexiou@liverpool.ac.uk
+      - title: linkedin
+        url: http://linkedin.com/in/alalexiou
+  - name: Ffion Carney
+    position: PhD Student 
+    text: Transport planning, environmental analysis, and GIS
+    img: ffion.jpg
+    social:
+        - title: envelope #use for email address
+          url: mailto:f.carney@liverpool.ac.uk  
+  - name: Alec Davies
+    position: PhD Student 
+    text: Health and lifestyle, fitness participation, healthy consumption
+    img: alecdavis.jpg
+    social:
+        - title: envelope #use for email address
+          url: mailto:sgadavi3@liverpool.ac.uk
+        - title: linkedin
+          url: https://uk.linkedin.com/in/alec-davies-464a21b3       
   - name: Kaisa Lahtinen
     position: PhD Student
     text: Neighbourhood structure, zone design, survey data
@@ -124,6 +140,20 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:Kaisa.Lahtinen@city.ac.uk
+  - name: Ellen Talbot
+    position: PhD Student
+    text: Transport, dynamic geodemographics, consumer behaviour
+    img: ellen.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:e.talbot@liverpool.ac.uk
+  - name: Linda Woods
+    position: PhD Student
+    text: Data science, spatial analysis, social statistics, big data, retail
+    img: linda.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:l.blade@liverpool.ac.uk
   - name: Dean Riddlesden
     position: Data Scientist / Industry Partner
     text: Retail, Internet Geography, Big Data, Broadband
@@ -135,30 +165,10 @@ members:
         url: https://www.linkedin.com/in/dean-riddlesden-40136354
       - title: twitter
         url: https://twitter.com/deanriddlesden
-  - name: Alekos Alexiou
-    position: PhD Student
-    text: Geodemographics, clustering, MAUP, R, open data
-    img: alekos.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:A.Alexiou@liverpool.ac.uk
-      - title: linkedin
-        url: http://linkedin.com/in/alalexiou
-  - name: Linda Wood
-    position: PhD Student
-    text: Data science, spatial analysis, social statistics, big data, retail
-    img: linda.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:l.blade@liverpool.ac.uk
-  - name: Mark Green
-    position: Lecturer
-    text: Health-related behaviours, classifications, spatial statistics
-    img: mark.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:mark.green@liverpool.ac.uk
+
 # Clients information. Shown on Home and About pages.
+
+        
 clients:
   - name: ESRC
     img: Esrc_logo.png
