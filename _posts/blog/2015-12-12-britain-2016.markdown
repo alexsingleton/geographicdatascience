@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Britain in 2016 - Retail Revival"
+date:   2015-12-12
+author: Alex Singleton
+categories: 
+- blog
+- press
+img: magazine.png
+thumb: magazine_thumb.png
+---
+
+We have spent much of the past 12 months working on our [e-resilience project](http://geographicdatascience.com/project/eresilience/) which has now been featured in the ESRC 2016 edition of the ["Britain In"](http://www.esrc.ac.uk/news-events-and-publications/publications/magazines-and-newsletters/britain-in-magazine/) magazine.
+
+A copy of the article is available [here](/assets/pdf/BRIT16_Retail.pdf).
+
+![Britain in 2016](/assets/img/blog/Brit2016_cover.png)
