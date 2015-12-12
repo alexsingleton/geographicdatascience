@@ -118,14 +118,14 @@ members:
       - title: linkedin
         url: http://linkedin.com/in/alalexiou
   - name: Ffion Carney
-    position: PhD Student 
+    position: MSc Student 
     text: Transport planning, environmental analysis, and GIS
     img: ffion.jpg
     social:
         - title: envelope #use for email address
           url: mailto:f.carney@liverpool.ac.uk  
   - name: Alec Davies
-    position: PhD Student 
+    position: MSc / PhD Student 
     text: Health and lifestyle, fitness participation, healthy consumption
     img: alecdavis.jpg
     social:
@@ -141,7 +141,7 @@ members:
       - title: envelope #use for email address
         url: mailto:Kaisa.Lahtinen@city.ac.uk
   - name: Ellen Talbot
-    position: PhD Student
+    position: MSc / PhD Student
     text: Transport, dynamic geodemographics, consumer behaviour
     img: ellen.jpg
     social:
