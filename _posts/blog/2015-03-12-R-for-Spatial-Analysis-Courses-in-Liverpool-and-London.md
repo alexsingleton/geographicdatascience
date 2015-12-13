@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "R for Spatial Analysis Courses in Liverpool and London"
-date:   2015-12-5
+date:   2015-12-05
 author: Nick Bearman
 categories: 
 - blog
