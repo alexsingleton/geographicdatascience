@@ -6,8 +6,8 @@ author: Alex Singleton
 categories: 
 - blog
 - cdrc
-img: iumb_thumb.png
-thumb: iumb.png
+img: iumb.png
+thumb: iumb_thumb.png
 ---
 
 For the past year we have been working on a number of projects related to Internet use  and retail. These have culminated in a measure of e-resilience which assesses the extent to which retail centres have spatially differentiated vulnerability to the impact of online consumption. This work recently featured in the  [Britain in 2016 magazine](http://geographicdatascience.com/blog/press/britain-2016/), and also our recent paper in [Geoforum](http://dx.doi.org/10.1016/j.geoforum.2015.11.013).
