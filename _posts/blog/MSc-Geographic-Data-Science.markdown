@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MSc Geographic Data Science"
-date:   2015-12-08
+date:   2015-12-09
 author: Alex Singleton
 categories: 
 - blog
