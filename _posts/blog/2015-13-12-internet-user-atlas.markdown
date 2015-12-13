@@ -4,6 +4,7 @@ title:  "Internet User Atlas"
 date:   2015-13-12
 author: Alex Singleton
 categories: 
+- blog
 - Internet
 - cdrc
 img: iumb_thumb.png
