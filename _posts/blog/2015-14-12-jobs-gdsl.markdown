@@ -17,7 +17,7 @@ contribute to undergraduate and postgraduate teaching in Human
 Geography within the Department of Geography and Planning.
 
 #Lecturer in Geographic Data Science
-##Grade 7 / 8 (£32,277 - £48,743 pa)
+##Grade 7 / 8 (32,277 - 48,743 pa)
 
 We are looking for candidates with excellent research profiles in GIS,
 Applied Geocomputation and Spatial Data Analysis, and are particularly
@@ -30,7 +30,7 @@ Full details: [http://www.liv.ac.uk/working/jobvacancies/currentvacancies/academ
 Informal enquiries to: Professor Alex Singleton ([alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk))
 
 #Lecturer In Quantitative Geography
-##Grade 7 / 8 (£32,277 - £48,743 pa)
+##Grade 7 / 8 (32,277 - 48,743 pa)
 
 We seek a lecturer to deliver high quality research, and contribute to
 undergraduate and postgraduate teaching in Quantitative Geography.
