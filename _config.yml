@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Geographic Data Science Lab.
+title: Geographic Data Science Lab
 description: "The Geographic Data Science Laboratory (GDSL) was established at the University of Liverpool with the aim of creating a centre of excellence for research and teaching within this emerging area"
 analytics: UA-50923993-1 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
@@ -98,7 +98,7 @@ members:
         url: https://uk.linkedin.com/in/leszek-dolega-7651a64a
   - name: Hai Nguyen
     position: Data Scientist
-    text: Retail & Open Data Analysis, Linked Data & Semantic Web, Data Science Frameworks
+    text: Retail & Open Data Analysis, Semantic Web, Data Science Frameworks
     img: hai.png
     social:
       - title: envelope #use for email address
