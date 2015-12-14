@@ -5,9 +5,9 @@ date:   2015-12-14
 author: Alex Singleton
 categories: 
 - blog
-- cdrc
-img: jobs.png
-thumb: jobs_thumb.png
+- careers
+img: GDS_Careers.png
+thumb: GDS_Careers_thumb.png
 ---
 
 As part of institutional investment in Geographic Information Science
