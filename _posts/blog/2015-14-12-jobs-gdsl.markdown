@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two Lectureships"
-date:   2015-12-09
+date:   2015-12-14
 author: Alex Singleton
 categories: 
 - blog
