@@ -10,8 +10,35 @@ img: jobs.png
 thumb: jobs_thumb.png
 ---
 
-We have spent much of the past 12 months working on our [e-resilience project](http://geographicdatascience.com/project/eresilience/) which has now been featured in the ESRC 2016 edition of the ["Britain In"](http://www.esrc.ac.uk/news-events-and-publications/publications/magazines-and-newsletters/britain-in-magazine/) magazine.
+As part of institutional investment in Geographic Information Science
+(GIS) and the Centre for Spatial Demographics Research, we wish to
+recruit two individuals who will deliver high quality research, and
+contribute to undergraduate and postgraduate teaching in Human
+Geography within the Department of Geography and Planning.
 
-A copy of the article is available [here](/assets/pdf/BRIT16_Retail.pdf).
+#Lecturer in Geographic Data Science
+##Grade 7 / 8 (32,277 - 48,743 pa)
 
-![Britain in 2016](/assets/img/blog/Brit2016_cover.png)
+We are looking for candidates with excellent research profiles in GIS,
+Applied Geocomputation and Spatial Data Analysis, and are particularly
+interested in those with experience of working with big data and
+developing open source software tools.
+
+Full details: [http://www.liv.ac.uk/working/jobvacancies/currentvacancies/academic/a-589811/](http://www.liv.ac.uk/working/jobvacancies/currentvacancies/academic/a-589811/)
+
+*Closing Date: Thu, 17 Dec 2015 17:00.*
+Informal enquiries to: Professor Alex Singleton ([alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk))
+
+#Lecturer In Quantitative Geography
+##Grade 7 / 8 (32,277 - 48,743 pa)
+
+We seek a lecturer to deliver high quality research, and contribute to
+undergraduate and postgraduate teaching in Quantitative Geography.
+You will have an excellent research profile in (and at the
+intersections of) population, health, economics, energy and/or the
+environment.
+
+Full details: [http://www.liv.ac.uk/working/jobvacancies/currentvacancies/academic/a-574898/](http://www.liv.ac.uk/working/jobvacancies/currentvacancies/academic/a-574898/)
+
+*Closing Date: Mon, 04 Jan 2016 17:00.*
+Informal enquiries to: Professor Andy Plater ([gg07@liv.ac.uk](mailto:gg07@liv.ac.uk))
