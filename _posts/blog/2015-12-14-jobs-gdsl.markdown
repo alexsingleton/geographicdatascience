@@ -7,7 +7,7 @@ categories:
 - blog
 - press
 img: jobs.png
-thumb: magazine_thumb.png
+thumb: jobs_thumb.png
 ---
 
 We have spent much of the past 12 months working on our [e-resilience project](http://geographicdatascience.com/project/eresilience/) which has now been featured in the ESRC 2016 edition of the ["Britain In"](http://www.esrc.ac.uk/news-events-and-publications/publications/magazines-and-newsletters/britain-in-magazine/) magazine.
