@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Britain in 2016 - Retail Revival"
-date:   2015-12-12
+title:  "Two Lectureships"
+date:   2015-12-14
 author: Alex Singleton
 categories: 
 - blog
