@@ -6,7 +6,7 @@ author: Alex Singleton
 categories: 
 - blog
 - press
-img: magazine.png
+img: jobs.png
 thumb: magazine_thumb.png
 ---
 
