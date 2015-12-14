@@ -96,8 +96,8 @@ members:
         url: mailto:L.Dolega@liverpool.ac.uk
   - name: Hai Nguyen
     position: Data Scientist
-    text: Networks, knowledge-base systems, linked data, big data
-    img: hainguyen.jpg
+    text: Retail and Open Data Analysis, Linked Data and the Semantic Web, Data Science Frameworks and Techniques
+    img: hai.jpg
     social:
       - title: envelope #use for email address
         url: mailto:Hai.Hoang.Nguyen@liverpool.ac.uk
