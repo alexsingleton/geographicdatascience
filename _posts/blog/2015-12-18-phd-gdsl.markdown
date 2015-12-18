@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "PhD / Masters Degree - Retail Revival? Post Recession Retail Centre Competitiveness"
+date:   2015-12-14
+author: Alex Singleton
+categories: 
+- blog
+img: jobs.png
+thumb: jobs_thumb.png
+---
+
+###Retail Revival? Post Recession Retail Centre Competitiveness 
+**ESRC PhD / Masters Degree (3 or 3+1)**
+
+This studentship can be configured as either a three year PhD, or with an additional MSc year depending on training needs. Start date would be Oct 2016. The collaborative partner on this project is the Local Data Company ([www.localdatacompany.com](http://www.localdatacompany.com/)), who are the main provider of insight about retail centre composition and vacancy rates in the UK.
+
+###Project Outline
+
+This study will utilise a new dataset supplied by LDC that links their surveyed attributes (location, retailer, vacancy) with other data derived from the Valuation Office Agency (VOA) records detailing currently allocated business rates and the floorspace of retail units. This project will produce hedonic models of the spatial and temporal change in ‘rateable values’ , create a multidimensional classification of retail centres/high streets and explore the geography of retail centre competitiveness at both cross-regional and local levels.
+
+The project is linked to the ESRC Consumer Data Research Centre ([www.cdrc.ac.uk](http://www.cdrc.ac.uk)) and is housed within the Geographic Data Science Lab (geographicdatascience.com) at the University of Liverpool.
+
+###Requirements
+
+A successful candidate will have a 1st class / high upper 2nd class undergraduate degree or an MSc with Merit or Distinction in a quantitative social science discipline.
+
+###Funding
+
+3 year (or 3+1) ESRC North West Doctoral Training Centre (DTC) Research Studentships; Studentships include an annual tax-free maintenance stipend at the standard ESRC rate* (for 2015/16, this is £14,057 for full-time students - tax free). In addition, the studentship will pay for all tuition fees. Research Students will have access to central funds to cover research related expenses,fieldwork, collaborations and overseas institutional visits. Funding is open to UK / EU students only; and may be eligible for an additional Advanced Quantitative Methods enhanced stipend.
+
+###How to Apply
+
+To apply, please submit a CV and supporting letter of application to Professor Alex Singleton [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk), demonstrating how you feel your skills and experience are relevant to the CDRC. The closing date is 8th January 2016.
+
+For more click below...
+
+<!--more-->
+
+### Research questions
+
+**Background: A Changing Retail Geography**
+
+The retail geography in the UK has changed noticeably over the past fifteen years (Wrigley and Lambiri, 2015), with many high profile retailers no longer trading (e.g. Woolworths) while other newer entrants such as the discounters (Aldi, Home Bargains) flourish, expanding their coverage rapidly. Within the retail geography and regional science literature a number of influences on these changes have been identified including changing consumer preferences (Buckley et al., 2007; Wrigley and Lambiri, 2014), the economic recession (Wrigley and Dolega, 2011; BCSC, 2013) and growing online sales (Weltevreden, 2007; Doherty and Ellis-Chadwick, 2010, Singleton and Dolega, 2014). The reconfiguration of British High Streets has been eroded by high vacancy rates, and the post-recession recovery has been hindered by high operating costs such as business rates (LDC, 2014, HM Treasury, 2015). 
+
+Business rates are calculated according to a property’s ‘rateable value’ set by the Valuation Office Agency (VOA) and are based on an assessed amount equivalent to the annual rent for each non-domestic property in England. Typically, the official revaluation of business rates takes place on a 5-year cycle. Nevertheless, the 2015 revaluation has been deferred until 2017 and the current business rates were set at the peak market levels of early 2008. 
+
+Since 2008, rents in most parts of the country have fallen substantially, and demand for many forms of high street shopping have decreased due to increased demand for online retail services. There seem to be a consensus that there is a real disconnection between market rental values and the levels of rates that many occupiers currently pay. For those areas which have been less resilient to effects of the recession, this is identified as a key factor that hinders their recovery and reduces competitiveness (Grimsey, 2012). The Government recognises the need for a reform and at present, is undertaking an urgent review of the current business rates system, although, it is committed that changes proposed will be fiscally neutral, with no fall in revenues collected, so the revision is likely to be cosmetic. However, the announcement of the Chancellor at the October Conservative conference stated that local authorities will be able to retain and set business rates locally, which has the potential to increase competition between local economies however these delineations are drawn (e.g. Local Authority, City Regions, Local Enterprise Partnerships etc). There is a dearth of higher order empirical evidence about how local rates might be estimated, and how competition varies between retail centres. Such changes are dynamic, and require new models that can be calibrated against data related to changed market conditions.
+
+In particular, the aims of this project are: a) to investigate the geography of competitiveness of both retail/service providers and local governments; b) to develop understanding of what the changes in property use, largely resulting from the increasing impact of online sales, across various localities and sectors mean for the future of British town/retail centres; c) to examine how the patterns in rateable values change can be governed locally and d) to explain the importance of local vs. regional or national socio-economic context in enhancing/hindering town centre vitality. 
+
+###Methods and Timeline
+
+This study will utilise a new dataset supplied by LDC that links their surveyed attributes (location, retailer, vacancy) with other data derived from the Valuation Office Agency (VOA) records detailing current allocated business rates and the floorspace of retail units. 
+
+1. Spatial analysis to investigate cross-regional and local variations in rateable values change since 2008 
+
+2. Hedonic Pricing Method, to analyse drivers of that change and their contribution. 
+
+3. K-means clustering to develop a new multidimensional classification of UK retail centres/high streets. 
+
+4. Conceptualisation of UK retail centre competitiveness; and creation of a national scale Index of retail centre competitiveness. 
+
+It is envisaged that the above activities would be embedded into an overall workplan as follows:
+
+* Year 0: Obtaining necessary technical training, including completing the [MSc Geographic Data Science](http://geographicdatascience.com/blog/careers/MSc-Geographic-Data-Science/) if required. 
+* Year 1: Literature review; Data Review, Exploratory Analysis, Classification of retail centres.
+* Year 2: Hedonic Pricing Model, investigation of retail centres competitiveness and regional and local evaluation
+* Year 3: Validation of the results and write-up
