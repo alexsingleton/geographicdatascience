@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "PhD / Masters Degree - Retail Revival? Post Recession Retail Centre Competitiveness"
-date:   2015-12-14
+title:  "PhD / Masters Degree Geographic Data Science"
+date:   2015-12-18
 author: Alex Singleton
 categories: 
 - blog
