@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PhD / Masters Degree Geographic Data Science"
+title:  "Funded PhD / Masters Degree Geographic Data Science"
 date:   2015-12-18
 author: Alex Singleton
 categories: 
