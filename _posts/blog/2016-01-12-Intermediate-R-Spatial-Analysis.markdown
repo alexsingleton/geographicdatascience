@@ -13,7 +13,7 @@ thumb: teaching_thumb.jpg
 
 A workshop on **Intermediate R for Spatial Analysis** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool.
 
-**Date:** Friday 4th October 2016, 9:30am – 4pm
+**Date:** Friday 4th March 2016, 9:30am – 4pm
 
 **Venue:** Training Room 1, Sydney Jones Library, University of Liverpool, Liverpool.
 
@@ -23,7 +23,7 @@ A workshop on **Intermediate R for Spatial Analysis** is being run by the Geogra
 
 In this course we will cover how to prepare and analyse spatial data in RStudio & GeoDa. We will use RStudio to perform spatial overlay techniques (such as union, intersection and buffers) to combine different spatial data layers to support a spatial analysis decision. We will also use RStudio and GeoDa to explore a range of different spatial analyses including regression, Moran's I and clustering. By the end of the course you will understand how RStudio manages spatial data and be able to use RStudio for a range of spatial analysis. 
 
-Experience of using R and working with spatial data is highly recommended. If you are not already familiar with the basic elements of GIS or R, you may wish to attend the course “Introduction to Using R for Spatial Analysis” prior to this course where provide these skills (more details at X).
+Experience of using R and working with spatial data is highly recommended. If you are not already familiar with the basic elements of GIS or R, you may wish to attend the course “Introduction to Using R for Spatial Analysis” prior to this course where provide these skills (more details at [http://geographicdatascience.com/blog/training/Intro-R-Spatial-Analysis/](http://geographicdatascience.com/blog/training/Intro-R-Spatial-Analysis/)).
 
 Refreshments and lunch are provided, and numbers on the course are limited and allocated on a first come, first served basis. If you need any more information, please email Nick Bearman at n.bearman@liverpool.ac.uk or soesms@liverpool.ac.uk. 
 

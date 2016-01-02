@@ -13,7 +13,7 @@ thumb: teaching_thumb.jpg
 
 A workshop on **Introduction to Using R for Spatial Analysis** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool.
 
-**Date:** Thursday 3rd October 2016, 9:30am – 4pm
+**Date:** Thursday 3rd March 2016, 9:30am – 4pm
 
 **Venue:** Training Room 1, Sydney Jones Library, University of Liverpool, Liverpool.
 
