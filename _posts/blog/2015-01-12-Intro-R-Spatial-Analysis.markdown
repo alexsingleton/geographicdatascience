@@ -4,8 +4,11 @@ layout: post
 avatar: nickbearman
 title: Introduction to Using R for Spatial Analysis
 comments: true
-categories:
-- Training Course
+categories: 
+- blog
+- training
+img: catchment.png
+thumb: teaching_thumb.jpg
 ---
 
 A workshop on **Introduction to Using R for Spatial Analysis** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool.
