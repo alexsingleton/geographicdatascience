@@ -3,7 +3,7 @@ layout: post
 title:  "Geographic Data Science Careers"
 date:   2015-12-09
 author: Alex Singleton
-categories: 
+categories:
 - blog
 - careers
 img: GDS_Careers.png
@@ -19,12 +19,14 @@ Geographic Data Scientists have varied career trajectories and work within a var
 5. What advice would you give a student wishing to start a Geographic Data Science career in your industry?
 6. Where do you see the Geographic Data Science industry going in the next 10 years?
 
-[![Profile](http://www.alex-singleton.com/gds_website/assets/img/blog/Andrew_Hougham.png)](http://www.alex-singleton.com/gds_website/assets/pdf/Andrew_Hougham.pdf)
+[![Profile](/assets/img/blog/Andrew_Hougham.png)](/assets/pdf/Andrew_Hougham.pdf)
 
-[![Profile](http://www.alex-singleton.com/gds_website/assets/img/blog/Annette_Dellevoet.png)](http://www.alex-singleton.com/gds_website/assets/pdf/Annette_Dellevoet.pdf)
+[![Profile](/assets/img/blog/Annette_Dellevoet.png)](/assets/pdf/Annette_Dellevoet.pdf)
 
-[![Profile](http://www.alex-singleton.com/gds_website/assets/img/blog/Ivo_Wengraf.png)](http://www.alex-singleton.com/gds_website/assets/pdf/Ivo_Wengraf.pdf)
+[![Profile](/assets/img/blog/Ivo_Wengraf.png)](/assets/pdf/Ivo_Wengraf.pdf)
 
-[![Profile](http://www.alex-singleton.com/gds_website/assets/img/blog/Matthew_Howe.png)](http://www.alex-singleton.com/gds_website/assets/pdf/Matthew_Howe.pdf)
+[![Profile](/assets/img/blog/Matthew_Howe.png)](/assets/pdf/Matthew_Howe.pdf)
 
-[![Profile](http://www.alex-singleton.com/gds_website/assets/img/blog/Paul_Morgalla.png)](http://www.alex-singleton.com/gds_website/assets/pdf/Paul_Morgalla.pdf)
+[![Profile](/assets/img/blog/Paul_Morgalla.png)](/assets/pdf/Paul_Morgalla.pdf)
+
+[![Profile](/assets/img/blog/Emma_McClimont.png)](/assets/pdf/Emma_McClimont.pdf)
