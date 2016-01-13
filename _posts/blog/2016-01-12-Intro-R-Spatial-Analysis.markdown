@@ -2,7 +2,7 @@
 author: Nick Bearman
 layout: post
 avatar: nickbearman
-title: Introduction to Using R for Spatial Analysis
+title: Introduction to Using R as a GIS
 comments: true
 categories: 
 - blog
@@ -11,7 +11,7 @@ img: catchment.png
 thumb: teaching_thumb.jpg
 ---
 
-A workshop on **Introduction to Using R for Spatial Analysis** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool.
+A workshop on **Introduction to Using R as a GIS** is being run by the Geographic Data Science Lab and the Consumer Data Research Centre (CDRC) at the University of Liverpool.
 
 **Date:** Thursday 3rd March 2016, 9:30am – 4pm
 
@@ -33,7 +33,7 @@ Experience of creating maps in ArcGIS, QGIS or similar is preferable, but not re
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
 ####Registration:
-Online registration to follow. Please email <mailto:n.bearman@liverpool.ac.uk> for more information. 
+Registration available [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=544). Please email <mailto:n.bearman@liverpool.ac.uk> if you need more information. 
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
