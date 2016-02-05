@@ -35,7 +35,7 @@ Refreshments and lunch are provided, and numbers on the course are limited and a
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
 ####Registration:
-Online registration to follow. Please email <mailto:n.bearman@liverpool.ac.uk> for more information. 
+Registration available [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=541). Please email <mailto:n.bearman@liverpool.ac.uk> if you need more information. 
 
 ####Location:
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
