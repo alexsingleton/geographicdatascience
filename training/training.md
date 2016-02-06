@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: projects
 title: Training Materials
 permalink: /training/
 ---
