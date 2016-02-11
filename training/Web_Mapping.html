@@ -1,0 +1,555 @@
+---
+layout: teaching
+title: Web Mapping and Analysis
+permalink: /training/WebMapping/
+---
+
+
+
+<style type="text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+</style>
+<div class="container-fluid main-container">
+
+
+<div id="header">
+<h1 class="title">Module Overview</h1>
+</div>
+
+
+<div id="aims" class="section level1">
+<h1>Aims</h1>
+<p>The module has two main aims. First, it seeks to to provide hands-on experience and training in the design and generation of web-based mapping and geographical information tools. Second, it seeks to provide hands-on experience and training in the use of software to access, analyse and visualize web-based geographical information.</p>
+</div>
+<div id="locations-timetable-and-staff" class="section level1">
+<h1>Locations, Timetable and Staff</h1>
+<div id="locations" class="section level2">
+<h2>Locations</h2>
+<ul>
+<li>Lecture: Fridays - 13.00 - 14.00, Room 511 Roxby (building 107, map E2)</li>
+<li>Practical: Fridays - 14.00 - 1600 Maths (building 206, map E6), Room G04, PC Teaching Centre)</li>
+</ul>
+</div>
+<div id="timetable" class="section level2">
+<h2>Timetable</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Week</th>
+<th align="left">Session (Friday)</th>
+<th align="left">Lecture</th>
+<th align="left">Practical</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1</td>
+<td align="left">05/02/2016</td>
+<td align="left">Alex</td>
+<td align="left">Kostas</td>
+</tr>
+<tr class="even">
+<td align="left">2</td>
+<td align="left">12/02/2016</td>
+<td align="left">Kostas</td>
+<td align="left">Kostas</td>
+</tr>
+<tr class="odd">
+<td align="left">3</td>
+<td align="left">19/02/2016</td>
+<td align="left">Hai</td>
+<td align="left">Kostas</td>
+</tr>
+<tr class="even">
+<td align="left">4</td>
+<td align="left">26/02/2016</td>
+<td align="left">Kostas</td>
+<td align="left">Kostas</td>
+</tr>
+<tr class="odd">
+<td align="left">5</td>
+<td align="left">04/02/2016</td>
+<td align="left">Hai</td>
+<td align="left">Hai</td>
+</tr>
+<tr class="even">
+<td align="left">6</td>
+<td align="left">11/03/2016</td>
+<td align="left">Hai</td>
+<td align="left">Hai</td>
+</tr>
+<tr class="odd">
+<td align="left">7</td>
+<td align="left">18/03/2016</td>
+<td align="left">Hai</td>
+<td align="left">Kostas (Clinic)</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">EASTER</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">8</td>
+<td align="left">15/04/2016</td>
+<td align="left">Michail</td>
+<td align="left">Michail</td>
+</tr>
+<tr class="even">
+<td align="left">9</td>
+<td align="left">21/04/2016</td>
+<td align="left">Kostas</td>
+<td align="left">Michail</td>
+</tr>
+<tr class="odd">
+<td align="left">10</td>
+<td align="left">29/04/2016</td>
+<td align="left">Kostas</td>
+<td align="left">Kostas (Clinic)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="staff" class="section level2">
+<h2>Staff</h2>
+<p>The module lead is Professor Alex Singleton who can be contacted at <a href="mailto:alex.singleton@liverpool.ac.uk">alex.singleton@liverpool.ac.uk</a> regarding any queries related to the module. Content is being delivered by a number of other academics within the <a href="http://geographicdatascience.com/">Geographic Data Science Lab</a> including Hai Nguyen, Kostas Daras and Michail Pavlis.</p>
+</div>
+</div>
+<div id="assignments" class="section level1">
+<h1>Assignments</h1>
+<p>There are two assignments for this module; both with a 50% weighting.</p>
+<ul>
+<li><p><strong>Assignment 1:</strong> Using R and the Police.UK API, create maps for Liverpool that illustrate how the geography of crime has changed over a 12 month period. For this assignment you will need to submit your R code as an Rmarkdown file alongside an HTML created output. Additional credit will be given if an interactive map is created using Leaflet. Your Rmarkdown and HTML document should provide a description of the design choices taken. <em>Due the end of Week 7</em></p></li>
+<li><p><strong>Assignment 2:</strong> Using either CartoDB or Mapbox Studio, create an Index of Multiple Deprivation (IMD) Map for Liverpool. This should graphically illustrate the overall IMD decile that each Lower Layer Super Output Area (LSOA) is assigned, and provide additional information about the LSOA using a rollover. <em>Due the end of Week 12</em></p></li>
+</ul>
+</div>
+<div id="content" class="section level1">
+<h1>Content</h1>
+<div id="week-1" class="section level2">
+<h2>Week 1</h2>
+<div id="lecture-an-introduction-to-web-mapping-and-analysis" class="section level3">
+<h3>Lecture: An Introduction to Web Mapping and Analysis</h3>
+<ul>
+<li>Module structure, delivery and context</li>
+<li>Background / history of the Geoweb</li>
+</ul>
+</div>
+<div id="practical-an-introduction-to-the-r-language" class="section level3">
+<h3>Practical: An Introduction to the R Language</h3>
+<ul>
+<li>Language basics</li>
+<li>Basic data wrangling</li>
+</ul>
+</div>
+<div id="reading-and-resources" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Field, A., Miles, J., Field, Z. (2012) Discovering statistics using R. London: Sage.</li>
+<li>Haklay, M., Singleton, A., and Parker, C. (2008). Web Mapping 2.0: The Neogeography of the GeoWeb. Geography Compass, 2(6):2011–2039.</li>
+<li>Chapter 10 - “The Geoweb” in Longley, P., Goodchild, M., Maguire, D., Rhind, D. (2015) Geographic Information Science and Systems. Hoboken, NJ: Wiley.</li>
+<li>Chapter 2 - “Data and Plots” in Brunsdon, C., Comber, L. (2015) An Introduction to R for Spatial Analysis and Mapping. London: Sage.</li>
+</ul>
+<p><em>Code School</em></p>
+<ul>
+<li>R: <a href="https://www.codeschool.com/courses/try-r" class="uri">https://www.codeschool.com/courses/try-r</a></li>
+</ul>
+</div>
+<div id="files" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_1.pdf">Lecture 1</a></li>
+<li>Lab: <a href="/training/WebMapping/Practical1">HTML</a></li>
+<li>Lab Files (Zip): <a href="/training/WebMapping/P1.zip">Download</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-2" class="section level2">
+<h2>Week 2</h2>
+<div id="lecture-r-for-mapping" class="section level3">
+<h3>Lecture: R for Mapping</h3>
+<ul>
+<li>An example of R for mapping</li>
+<li>R as a GIS</li>
+<li>Basic R for making maps</li>
+<li>R Studio</li>
+</ul>
+</div>
+<div id="practical-using-r-for-mapping-and-vizualization" class="section level3">
+<h3>Practical: Using R for Mapping and Vizualization</h3>
+<ul>
+<li>Graphs in ggplot</li>
+<li>Importing spatial data</li>
+<li>Creating maps with points, lines and polygons</li>
+</ul>
+</div>
+<div id="reading-and-resources-1" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Chapter 5 - “Representing Geography” in Longley, P., Goodchild, M., Maguire, D., Rhind, D. (2015) Geographic Information Science and Systems. Hoboken, NJ: Wiley.</li>
+<li>Chapter 3 - “Handling Spatial Data in R” in Brunsdon, C., Comber, L. (2015) An Introduction to R for Spatial Analysis and Mapping. London: Sage.</li>
+<li>Chapter 1 - “Spatial Data Visualization in R” in Brunsdon, C., Singleton, A.D. Geocomputation: A Practical Primer. London: Sage.</li>
+</ul>
+</div>
+<div id="files-1" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_2.pdf">Lecture 2</a></li>
+<li>Lab: <a href="training/WebMapping/Practical2">HTML</a></li>
+<li>Lab Files (Zip): <a href="/training/WebMapping/P2.zip">Download</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-3" class="section level2">
+<h2>Week 3</h2>
+<div id="lecture-the-anatomy-and-social-science-of-the-internet" class="section level3">
+<h3>Lecture: The Anatomy and Social Science of the Internet</h3>
+<ul>
+<li>Internet infrastructure</li>
+<li>Servers</li>
+<li>Communication protocols - HTTP etc; authentication - oa auth</li>
+<li>Broadband speeds and constraints</li>
+<li>Social context - use and engagement</li>
+</ul>
+</div>
+<div id="practical-linking-r-to-the-web-mapping-and-analysis" class="section level3">
+<h3>Practical: Linking R to the Web (Mapping and Analysis)</h3>
+<ul>
+<li>R Google maps</li>
+<li>ggmap</li>
+<li>geocoding</li>
+<li>Google Routing</li>
+</ul>
+</div>
+<div id="reading-and-resources-2" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Dodge, M., Kitchin, R. (2001) Atlas of Cyberspace. Boston: Pearson.</li>
+<li>Kurose, J.F., Ross,K.W. (2013) Computer networking: a top-down approach. Boston: Pearson.</li>
+<li>Riddlesden, D. and Singleton, A. (2014). Broadband speed equity: A new digital divide?. Applied Geography, 52, 25–33.</li>
+</ul>
+</div>
+<div id="files-2" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_3.pdf">Lecture 3</a></li>
+<li>Lab: <a href="training/WebMapping/Practical3">HTML</a></li>
+<li>Lab Files (Zip): <a href="/training/WebMapping/P3.zip">Download</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-4" class="section level2">
+<h2>Week 4</h2>
+<div id="the-internet-as-a-geographic-data-source" class="section level3">
+<h3>The Internet as a Geographic Data Source</h3>
+<ul>
+<li>Passive V Active Data Collection
+<ul>
+<li>Sensors
+<ul>
+<li>People</li>
+<li>Environment</li>
+</ul></li>
+<li>Volunteered Geographic Information (VGI)</li>
+<li>OpenStreetMap</li>
+</ul></li>
+<li>Bias</li>
+<li>Data formats
+<ul>
+<li>CSV</li>
+<li>XML / JSON etc</li>
+</ul></li>
+<li>Web API</li>
+</ul>
+</div>
+<div id="practical-linking-r-to-the-web-data" class="section level3">
+<h3>Practical: Linking R to the Web (Data)</h3>
+<ul>
+<li>Reading CSV from the web</li>
+<li>Police.uk - <a href="https://data.police.uk/data/" class="uri">https://data.police.uk/data/</a></li>
+<li>Department for Education</li>
+<li>Rcurl</li>
+<li>API examples</li>
+<li>Wikipedia</li>
+<li>Twitter</li>
+<li>Functions</li>
+</ul>
+</div>
+<div id="reading-and-resources-3" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Kitchin, R. (2014) The Data Revolution: Big Data, Open Data, Data Infrastructures &amp; Their Consequences. London: Sage.</li>
+<li>Goodchild, M.F. (2007) Citizens as sensors: the world of volunteered geography. GeoJournal 69 (4): 211–221.</li>
+<li>Hacklay, M, Weber, P. (2008) OpenStreetMap: User-Generated Street Maps Pervasive Computing, IEEE (Volume:7, Issue: 4) Available from <a href="http://discovery.ucl.ac.uk/13849/1/13849.pdf" class="uri">http://discovery.ucl.ac.uk/13849/1/13849.pdf</a></li>
+<li>Russell, M.A. (2013) Mining the Social Web. Second Edition. Sebastopol, CA: O’Reilly Media.</li>
+</ul>
+</div>
+<div id="files-3" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_4.pdf">Lecture 4</a></li>
+<li>Lab: <a href="training/WebMapping/Practical4">HTML</a></li>
+<li>Lab Files (Zip): None…</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-5" class="section level2">
+<h2>Week 5:</h2>
+<div id="lecture-coding-basic-web-pages" class="section level3">
+<h3>Lecture: Coding Basic Web Pages</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap (and other frameworks)</li>
+<li>Interactivity</li>
+<li>Javascript and frameworks</li>
+<li>PHP</li>
+<li>Node.js</li>
+</ul>
+</div>
+<div id="practical-interactive-mapping-in-r-pt-1" class="section level3">
+<h3>Practical: Interactive Mapping in R Pt 1</h3>
+<ul>
+<li>Creating basic Leaflet spatial data interfaces</li>
+</ul>
+</div>
+<div id="reading-and-resources-4" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Ducket,J. (2011) HTML &amp; CSS. Indianapolis, USA: Wiley.</li>
+<li>Leaflet (2015) API Reference. Available from: <a href="http://leafletjs.com/reference.html" class="uri">http://leafletjs.com/reference.html</a></li>
+<li>Ducket, J. (2014) JavaScript &amp; jQuery : interactive front-end web development. Indianapolis, USA: Wiley.</li>
+</ul>
+<p><em>Code School</em></p>
+<ul>
+<li>JQuery: <a href="https://www.codeschool.com/courses/try-jquery" class="uri">https://www.codeschool.com/courses/try-jquery</a></li>
+<li>SQL: <a href="https://www.codeschool.com/courses/try-sql" class="uri">https://www.codeschool.com/courses/try-sql</a></li>
+</ul>
+</div>
+<div id="files-4" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_5.pdf">Lecture 5</a></li>
+<li>Lab: <a href="training/WebMapping/Practical5_6">HTML</a></li>
+<li>Lab Files (Zip): <a href="/training/WebMapping/P5_6.zip">Download</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-6" class="section level2">
+<h2>Week 6:</h2>
+<div id="lecture-web-mapping-interfaces" class="section level3">
+<h3>Lecture: Web Mapping Interfaces</h3>
+<ul>
+<li>Overview of Web Mapping Stack</li>
+<li>What are “slippy maps”?</li>
+<li>Interfaces
+<ul>
+<li>OpenLayers</li>
+<li>Leaflet</li>
+<li>D3</li>
+</ul></li>
+<li>Leaflet Example</li>
+</ul>
+</div>
+<div id="practical-interactive-mapping-in-r-pt-2" class="section level3">
+<h3>Practical: Interactive Mapping in R Pt 2</h3>
+<ul>
+<li>Creating basic Leaflet spatial data interfaces</li>
+</ul>
+</div>
+<div id="reading-and-resources-5" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Leaflet - <a href="http://leafletjs.com/" class="uri">http://leafletjs.com/</a></li>
+</ul>
+</div>
+<div id="files-5" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_6.pdf">Lecture 6</a></li>
+<li>Lab: See week 5…</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-7" class="section level2">
+<h2>Week 7:</h2>
+<div id="lecture-web-mapping-back-end-spatial-databases" class="section level3">
+<h3>Lecture: Web Mapping Back End: Spatial Databases</h3>
+<ul>
+<li>What are databases?</li>
+<li>Examples
+<ul>
+<li>MYSQL</li>
+<li>PostgreSQL</li>
+</ul></li>
+<li>SQL</li>
+<li>Spatial Databases
+<ul>
+<li>PostGIS (and other spatial databases)</li>
+<li>Spatial Query</li>
+</ul></li>
+</ul>
+</div>
+<div id="practical-assignment-1-clinic" class="section level3">
+<h3>Practical: Assignment 1 Clinic</h3>
+<ul>
+<li>An optional clinic for assistance with assignment 1.</li>
+</ul>
+</div>
+<div id="reading-and-resources-6" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Boundless (2015) Introduction to Geoserver. Available here: <a href="http://workshops.boundlessgeo.com/geoserver-intro/" class="uri">http://workshops.boundlessgeo.com/geoserver-intro/</a></li>
+<li>Boundless (2015) An Introduction to PostGIS - <a href="http://workshops.boundlessgeo.com/postgis-intro/" class="uri">http://workshops.boundlessgeo.com/postgis-intro/</a></li>
+<li>Mapbox (2015) Mapbox Studio Classic source quickstart. Available from: <a href="https://www.mapbox.com/guides/source-quickstart/" class="uri">https://www.mapbox.com/guides/source-quickstart/</a></li>
+<li>CartoDB (2015) CartoDB Tutorials. Available from: <a href="http://docs.cartodb.com/tutorials/" class="uri">http://docs.cartodb.com/tutorials/</a></li>
+</ul>
+</div>
+<div id="files-6" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_7.pdf">Lecture 7</a></li>
+<li>Lab: <a href="training/WebMapping/Practical7">HTML</a></li>
+<li>Lab Files (Zip): <a href="/training/WebMapping/P7.zip">Download</a></li>
+</ul>
+</div>
+</div>
+<div id="week-8" class="section level2">
+<h2>Week 8</h2>
+<div id="lecture-practical-web-mapping-back-end-tiles-an-introduction-to-cartodb" class="section level3">
+<h3>Lecture / Practical : Web Mapping Back End: Tiles &amp; An Introduction to Cartodb</h3>
+<ul>
+<li>What are tiles…</li>
+<li>Servers
+<ul>
+<li>Web server</li>
+<li>Tile server – e.g. tilestache</li>
+</ul></li>
+<li>Web mapping Standards
+<ul>
+<li>WMS / TMS etc</li>
+</ul></li>
+<li>Tile Creation
+<ul>
+<li>Geoserver</li>
+<li>Mapnik</li>
+<li>Mapbox Studio</li>
+<li>An extended example of Cartodb…</li>
+</ul></li>
+</ul>
+</div>
+<div id="files-7" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="#">Lecture 8</a></li>
+<li>Lab: <a href="#">HTML</a></li>
+<li>Lab Files (Zip): <a href="#">Download</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-9" class="section level2">
+<h2>Week 9:</h2>
+<div id="lecture-cartography-and-web-mapping" class="section level3">
+<h3>Lecture: Cartography and Web Mapping</h3>
+<ul>
+<li>Purpose of a map</li>
+<li>Different types of map</li>
+<li>Components of a map</li>
+</ul>
+</div>
+<div id="practical-an-introduction-to-mapbox-studio" class="section level3">
+<h3>Practical: An Introduction to Mapbox Studio</h3>
+<ul>
+<li>Custom OpenStreetMap Styling and CartoCSS</li>
+</ul>
+</div>
+<div id="reading-and-resources-7" class="section level3">
+<h3>Reading and Resources:</h3>
+<ul>
+<li>Krygier, J, Wood, D. (2011) Making Maps. A Visual Guide to Design for GIS. New York: Guilford Press.</li>
+<li>Singleton, A. and Brunsdon, C. (2014) Escaping the pushpin paradigm in geographic information science: (re)presenting national crime data. Area, 46(3), 294–304.</li>
+<li>Tufte, E. (2001) The Visual Display of Quantitative Information. Second Edition. Connecticut: Graphics Press.</li>
+<li>Yau, N. (2011) Visualize This: The Flowing Data Guide to Design, Visualization and Statistics. New York: Wiley.</li>
+</ul>
+<p><em>Blogs / Websites</em></p>
+<ul>
+<li>Stamen Blog (<a href="http://content.stamen.com/" class="uri">http://content.stamen.com/</a>)</li>
+<li>Mapbox Blog (<a href="https://www.mapbox.com/blog/" class="uri">https://www.mapbox.com/blog/</a>)</li>
+<li>ArcGIS Book - <a href="http://learn.arcgis.com/en/arcgis-book/" class="uri">http://learn.arcgis.com/en/arcgis-book/</a></li>
+</ul>
+</div>
+<div id="files-8" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="/training/WebMapping/Lecture_9.pdf">Lecture 9</a></li>
+<li>Lab: <a href="#">HTML</a></li>
+<li>Lab Files (Zip): <a href="#">Download</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-10" class="section level2">
+<h2>Week 10</h2>
+<div id="lecture-a-gallery-of-web-mapping-and-analysis-applications" class="section level3">
+<h3>Lecture: A Gallery of Web Mapping and Analysis Applications</h3>
+<p>This lecture presents a range of web mapping and analysis applications.</p>
+</div>
+<div id="practical-assignment-2-clinic" class="section level3">
+<h3>Practical: Assignment 2 Clinic</h3>
+<ul>
+<li>An optional clinic for assistance with assignment 1.</li>
+</ul>
+</div>
+<div id="files-9" class="section level3">
+<h3>Files:</h3>
+<ul>
+<li>Presentation (PowerPoint): <a href="#">Lecture 10</a></li>
+<li>Lab: <a href="training/WebMapping/Practical1">HTML</a></li>
+<li>Lab Files (Zip): <a href="/training/WebMapping/P1.zip">Download</a></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
