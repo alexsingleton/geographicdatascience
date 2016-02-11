@@ -25,17 +25,17 @@ This course will cover an introduction to R, how to load and manage spatial data
 
 Experience of creating maps in ArcGIS, QGIS or similar is preferable, but not required. Experience of using R is not required. Please email Nick for more information. Refreshments and lunch are provided, and numbers on the course are limited and allocated on a first come, first served basis.
 
-####Costs:
+**Costs:**
 - £60 – UK registered students
 - £130 – staff at UK academic institutions and research centres, UK-registered charity and voluntary organisations, staff in public sector and government
 - £200 – all other participants including staff from commercial organisations  
 *reduced prices are available for University of Liverpool affiliated students and staff*
 *cost negotiable for those less able to pay, please contact Nick Bearman for details*
 
-####Registration:
+**Registration:**
 Registration available [online](http://payments.liv.ac.uk/browse/extra_info.asp?compid=1&modid=5&deptid=46&catid=77&prodid=544). Please email <mailto:n.bearman@liverpool.ac.uk> if you need more information. 
 
-####Location:
+**Location:**
 Information on getting to the University is available at: [http://www.liv.ac.uk/maps/visiting/](http://www.liv.ac.uk/maps/visiting/)
 
 A map of the campus is available at: [http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf](http://www.liv.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
