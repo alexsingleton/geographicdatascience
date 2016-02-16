@@ -13,15 +13,15 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#4ECDC4" #"#F70031" 
-  primary_rgb: "78,205,196" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  primary: "#4ECDC4" #"#F70031"
+  primary_rgb: "78,205,196" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#556270" #"#33004D"
   link: "#C44D58"
   link_hover: "#FF6B6B"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
-  
-  
+
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -30,13 +30,13 @@ social:
     url: https://twitter.com/geodatascience
   - title: linkedin
     url: https://www.linkedin.com/groups/7024427
-    
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-  - lines: 
+  - lines:
     - Department of Geography and Planning,
     - Roxby Building,
-    - 74 Bedford St S, 
+    - 74 Bedford St S,
     - Liverpool
     -  L69 7ZT.
 email: alex.singleton@liverpool.ac.uk
@@ -44,7 +44,7 @@ tel: 0151 7942860
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 members:
   - name: Alex Singleton
@@ -120,21 +120,21 @@ members:
       - title: linkedin
         url: http://linkedin.com/in/alalexiou
   - name: Ffion Carney
-    position: MSc Student 
+    position: MSc Student
     text: Transport planning, environmental analysis, and GIS
     img: ffion.jpg
     social:
         - title: envelope #use for email address
-          url: mailto:f.carney@liverpool.ac.uk  
+          url: mailto:f.carney@liverpool.ac.uk
   - name: Alec Davies
-    position: MSc / PhD Student 
+    position: MSc / PhD Student
     text: Health and lifestyle, fitness participation, healthy consumption
     img: alecdavis.jpg
     social:
         - title: envelope #use for email address
           url: mailto:sgadavi3@liverpool.ac.uk
         - title: linkedin
-          url: https://uk.linkedin.com/in/alec-davies-464a21b3       
+          url: https://uk.linkedin.com/in/alec-davies-464a21b3
   - name: Kaisa Lahtinen
     position: PhD Student
     text: Neighbourhood structure, zone design, survey data
@@ -170,13 +170,13 @@ members:
 
 # Clients information. Shown on Home and About pages.
 
-        
+
 clients:
   - name: ESRC
     img: Esrc_logo.png
   - name: University of Liverpool
     img: uolLogo.png
-    
+
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Geographic Data Science is about making sense of how our world works; turning new forms of data into information that we can use to make intelligent decisions"
+about: "The Geographic Data Science Lab is part of the <a href = 'https://www.liverpool.ac.uk/spatial-demographics'>Centre for Spatial Demography Research</a> at the University of Liverpool . As a focused group, we are interested in making sense of how our world works; turning new forms of spatial data into information that we can use to make intelligent decisions."
 
