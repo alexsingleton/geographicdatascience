@@ -178,5 +178,5 @@ clients:
     img: uolLogo.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "The Geographic Data Science Lab is part of the <a href = 'https://www.liverpool.ac.uk/spatial-demographics'>Centre for Spatial Demography Research</a> at the University of Liverpool . As a focused group, we are interested in making sense of how our world works; turning new forms of spatial data into information that we can use to make intelligent decisions."
+about: "The Geographic Data Science Lab is part of the <a href = 'https://www.liverpool.ac.uk/spatial-demographics'>Centre for Spatial Demographics Research</a> at the University of Liverpool . As a focused group, we are interested in making sense of how our world works; turning new forms of spatial data into information that we can use to make intelligent decisions."
 
