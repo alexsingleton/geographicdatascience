@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mapping the Refugee Crisis in Greece: Using Leaflet Integration in R"
-date:   2015-12-18
+date:   2016-04-26
 author: Alekos Alexiou and Hai Nguyen
 categories: 
 - blog
@@ -39,48 +39,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 </script>
 
 
-<style type="text/css">
-.main-container {
-  max-width: 940px;
-  margin-left: auto;
-  margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
-img {
-  max-width:100%;
-  height: auto;
-}
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.tabbed-pane {
-  padding-top: 12px;
-}
-button.code-folding-btn:focus {
-  outline: none;
-}
-</style>
+
 
 
 <div class="container-fluid main-container">
