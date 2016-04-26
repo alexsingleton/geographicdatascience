@@ -2,7 +2,7 @@
 layout: post
 title:  "Mapping the Refugee Crisis in Greece: Using Leaflet Integration in R"
 date:   2015-12-18
-author: Alekos Alexiou
+author: Alekos Alexiou and Hai Nguyen
 categories: 
 - blog
 img: jobs.png
@@ -100,14 +100,6 @@ $(document).ready(function () {
 
 
 
-<div class="fluid-row" id="header">
-
-
-<h1 class="title">Mapping the Refugee Crisis in Greece: Using Leaflet Integration in R</h1>
-<h4 class="author"><em>Alexandros Alexiou and Hai Nguyen</em></h4>
-<h4 class="date"><em>25 April 2016</em></h4>
-
-</div>
 
 
 <div id="section" class="section level3">
