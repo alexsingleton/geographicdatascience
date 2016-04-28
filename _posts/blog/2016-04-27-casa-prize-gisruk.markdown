@@ -6,8 +6,8 @@ author: "Kaisa Lahtinen"
 categories:
 - blog
 - press
-img: prize.png
-thumb: prize_thumb.png
+img: prize.jpg
+thumb: prize_thumb.jpg
 ---
 
 Many thanks to [CASA-UCL](http://www.bartlett.ucl.ac.uk/casa) for offering me [the Prize for the Best Paper on Spatial Analysis](http://www.bartlett.ucl.ac.uk/casa/news/2016-04-06--Sinesio-Alves-Junior-Award-2016) for my research on [Using Geographically Weighted Regression to Explore Spatial Variation in Survey Behaviour](https://blogs.city.ac.uk/addresponse/files/2014/09/LahtinenBrunsdonButt_FINAL-16qzy9t.pdf) co-authored with Chris Brunsdon (National University of Ireland, Maynooth) and Sarah Butt (City University London), presented at the annual GISRUK Conference held at the University of Greenwich, 30th March - 1st April 2016.
